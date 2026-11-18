@@ -1,0 +1,2369 @@
+{
+  "gezegenler": {
+    "merkur": {
+      "isim": "Merkür",
+      "tur": "Karasal gezegen",
+      "uydu_sayisi": 0,
+      "gunes_uzakligi_km": "57,9 milyon",
+      "aciklama": "Merkür, Güneş Sistemi'nin Güneş'e en yakın gezegenidir.",
+      "ortalama_gunes_uzakligi_km": 57909227,
+      "ortalama_gunes_uzakligi_au": 0.3871,
+      "yaricap_ekvator_km": 2439.7,
+      "kutle_kg": 330104000000000000000000,
+      "yogunluk_g_cm3": 5.427,
+      "yil_suresi_dunya_gunu": 87.969,
+      "alternatif_isimler": [
+        "Mercury"
+      ],
+      "kategori": "Güneş Sistemi gezegeni",
+      "kaynak": "https://solarsystem.nasa.gov/planet-compare/"
+    },
+    "venus": {
+      "isim": "Venüs",
+      "tur": "Karasal gezegen",
+      "uydu_sayisi": 0,
+      "gunes_uzakligi_km": "108,2 milyon",
+      "aciklama": "Venüs, Güneş Sistemi'nin Güneş'e ikinci en yakın gezegenidir.",
+      "ortalama_gunes_uzakligi_km": 108209475,
+      "ortalama_gunes_uzakligi_au": 0.7233,
+      "yaricap_ekvator_km": 6051.8,
+      "kutle_kg": 4867320000000000000000000,
+      "yogunluk_g_cm3": 5.243,
+      "yil_suresi_dunya_gunu": 224.701,
+      "alternatif_isimler": [
+        "Venus"
+      ],
+      "kategori": "Güneş Sistemi gezegeni",
+      "kaynak": "https://solarsystem.nasa.gov/planet-compare/"
+    },
+    "dunya": {
+      "isim": "Dünya",
+      "tur": "Karasal gezegen",
+      "uydu_sayisi": 1,
+      "gunes_uzakligi_km": "149,6 milyon",
+      "aciklama": "Dünya, Güneş Sistemi'nde yüzeyinde sıvı su bulunan ve yaşam barındırdığı bilinen gezegendir.",
+      "ortalama_gunes_uzakligi_km": 149598262,
+      "ortalama_gunes_uzakligi_au": 1.0,
+      "yaricap_ekvator_km": 6371.0,
+      "kutle_kg": 5972190000000000000000000,
+      "yogunluk_g_cm3": 5.513,
+      "yil_suresi_dunya_gunu": 365.256,
+      "alternatif_isimler": [
+        "Earth",
+        "Arz"
+      ],
+      "kategori": "Güneş Sistemi gezegeni",
+      "kaynak": "https://solarsystem.nasa.gov/planet-compare/"
+    },
+    "mars": {
+      "isim": "Mars",
+      "tur": "Karasal gezegen",
+      "uydu_sayisi": 2,
+      "gunes_uzakligi_km": "227,9 milyon",
+      "aciklama": "Mars, Güneş Sistemi'nin Güneş'e dördüncü gezegenidir.",
+      "ortalama_gunes_uzakligi_km": 227943824,
+      "ortalama_gunes_uzakligi_au": 1.5237,
+      "yaricap_ekvator_km": 3389.5,
+      "kutle_kg": 641693000000000000000000,
+      "yogunluk_g_cm3": 3.934,
+      "yil_suresi_dunya_gunu": 686.98,
+      "alternatif_isimler": [
+        "Mars"
+      ],
+      "kategori": "Güneş Sistemi gezegeni",
+      "kaynak": "https://solarsystem.nasa.gov/planet-compare/"
+    },
+    "jupiter": {
+      "isim": "Jüpiter",
+      "tur": "Gaz devi",
+      "uydu_sayisi": 115,
+      "gunes_uzakligi_km": "778,3 milyon",
+      "aciklama": "Jüpiter, Güneş Sistemi'nin en büyük gezegenidir.",
+      "ortalama_gunes_uzakligi_km": 778340821,
+      "ortalama_gunes_uzakligi_au": 5.2028,
+      "yaricap_ekvator_km": 69911,
+      "kutle_kg": 1898130000000000000000000000,
+      "yogunluk_g_cm3": 1.326,
+      "yil_suresi_dunya_gunu": 4332.59,
+      "uydu_sayisi_notu": "NASA sayfasında IAU tarafından resmi olarak tanınan sayı.",
+      "uydu_sayisi_veri_tarihi": "2026-11-17 tarihinde erişildi",
+      "alternatif_isimler": [
+        "Jupiter"
+      ],
+      "kategori": "Güneş Sistemi gezegeni",
+      "kaynak": "https://science.nasa.gov/jupiter/jupiter-moons/"
+    },
+    "saturn": {
+      "isim": "Satürn",
+      "tur": "Gaz devi",
+      "uydu_sayisi": 293,
+      "gunes_uzakligi_km": "1,427 milyar",
+      "aciklama": "Satürn, belirgin halka sistemiyle tanınan bir gaz devidir.",
+      "ortalama_gunes_uzakligi_km": 1426666422,
+      "ortalama_gunes_uzakligi_au": 9.5388,
+      "yaricap_ekvator_km": 58232,
+      "kutle_kg": 568319000000000000000000000,
+      "yogunluk_g_cm3": 0.687,
+      "yil_suresi_dunya_gunu": 10759.22,
+      "uydu_sayisi_notu": "NASA'nın Ağustos 2026 itibarıyla verdiği doğrulanmış uydu sayısı.",
+      "uydu_sayisi_veri_tarihi": "2026-08",
+      "alternatif_isimler": [
+        "Saturn"
+      ],
+      "kategori": "Güneş Sistemi gezegeni",
+      "kaynak": "https://science.nasa.gov/saturn/moons/"
+    },
+    "uranus": {
+      "isim": "Uranüs",
+      "tur": "Buz devi",
+      "uydu_sayisi": 29,
+      "gunes_uzakligi_km": "2,871 milyar",
+      "aciklama": "Uranüs, eksen eğikliği nedeniyle diğer gezegenlerden farklı bir dönme geometrisine sahiptir.",
+      "ortalama_gunes_uzakligi_km": 2870658186,
+      "ortalama_gunes_uzakligi_au": 19.1914,
+      "yaricap_ekvator_km": 25362,
+      "kutle_kg": 86810300000000000000000000,
+      "yogunluk_g_cm3": 1.27,
+      "yil_suresi_dunya_gunu": 30688.5,
+      "uydu_sayisi_notu": "NASA'nın Ağustos 2026 itibarıyla verdiği resmi olarak tanınan uydu sayısı.",
+      "uydu_sayisi_veri_tarihi": "2026-08",
+      "alternatif_isimler": [
+        "Uranus"
+      ],
+      "kategori": "Güneş Sistemi gezegeni",
+      "kaynak": "https://science.nasa.gov/uranus/moons/"
+    },
+    "neptun": {
+      "isim": "Neptün",
+      "tur": "Buz devi",
+      "uydu_sayisi": 16,
+      "gunes_uzakligi_km": "4,498 milyar",
+      "aciklama": "Neptün, Güneş Sistemi'nin Güneş'e en uzak gezegenidir.",
+      "ortalama_gunes_uzakligi_km": 4498396441,
+      "ortalama_gunes_uzakligi_au": 30.0611,
+      "yaricap_ekvator_km": 24622,
+      "kutle_kg": 102410000000000000000000000,
+      "yogunluk_g_cm3": 1.638,
+      "yil_suresi_dunya_gunu": 60182,
+      "uydu_sayisi_notu": "NASA'nın resmi olarak tanınan uydu sayısı.",
+      "uydu_sayisi_veri_tarihi": "2026-11-17 tarihinde erişildi",
+      "alternatif_isimler": [
+        "Neptune"
+      ],
+      "kategori": "Güneş Sistemi gezegeni",
+      "kaynak": "https://science.nasa.gov/neptune/moons/"
+    },
+    "proxima_centauri_b": {
+      "isim": "Proxima Centauri b",
+      "tur": "Kayalık / Dünya benzeri",
+      "uydu_sayisi": null,
+      "dunyaya_uzakligi_km": "40,1 trilyon",
+      "yildizina_uzakligi_au": 0.0485,
+      "aciklama": "Proxima Centauri b, Güneş Sistemi'ne bilinen en yakın ötegezegenlerden biridir. Proxima Centauri adlı kırmızı cüce yıldızın yaşanabilir bölgesinde bulunur.",
+      "kategori": "Ötegezegen",
+      "alternatif_isimler": [
+        "Proxima b",
+        "Alpha Centauri Cb"
+      ],
+      "yildiz": "Proxima Centauri",
+      "yil_suresi_dunya_gunu": 11.186,
+      "uydu_bilgisi": "Doğrulanmış doğal uydu sayısı bu kayıtta belirtilmemiştir.",
+      "arsiv_durumu": "Katalog kayıtları kaynak bazında kontrol edilmeli",
+      "kaynak": "https://exoplanetarchive.ipac.caltech.edu/"
+    },
+    "trappist_1e": {
+      "isim": "TRAPPIST-1e",
+      "tur": "Kayalık gezegen",
+      "uydu_sayisi": null,
+      "dunyaya_uzakligi_km": "378,4 trilyon",
+      "yildizina_uzakligi_au": 0.02925,
+      "aciklama": "TRAPPIST 1e, TRAPPIST 1 sistemindeki yedi Dünya boyutuna yakın gezegenden biridir. Yaşanabilirlik araştırmaları açısından oldukça önemli bir ötegezegendir.",
+      "kategori": "Ötegezegen",
+      "alternatif_isimler": [
+        "TRAPPIST 1e",
+        "TRAPPIST-1 e"
+      ],
+      "yildiz": "TRAPPIST-1",
+      "yil_suresi_dunya_gunu": 6.101013,
+      "uydu_bilgisi": "Doğrulanmış doğal uydu sayısı bu kayıtta belirtilmemiştir.",
+      "yaricap_dunya": 0.92,
+      "kutle_dunya": 0.692,
+      "arsiv_durumu": "Confirmed Planet",
+      "kaynak": "https://exoplanetarchive.ipac.caltech.edu/overview/TRAPPIST-1e"
+    },
+    "kepler_186f": {
+      "isim": "Kepler-186f",
+      "tur": "Kayalık / Dünya boyutlu",
+      "uydu_sayisi": null,
+      "dunyaya_uzakligi_km": "yaklaşık 5,48 katrilyon",
+      "yildizina_uzakligi_au": 0.3931,
+      "aciklama": "Kepler-186f, Kepler-186 adlı kırmızı cüce yıldızın çevresinde dolanan, yaklaşık Dünya boyutlarında bir ötegezegendir. NASA Exoplanet Archive kaydında gezegenin durumu 'Confirmed Controversial' olarak işaretlendiği için bu kayıt kesinleşmiş ve tartışmasız bir sınıflandırma gibi sunulmamalıdır.",
+      "kategori": "Ötegezegen",
+      "alternatif_isimler": [
+        "Kepler 186f"
+      ],
+      "yildiz": "Kepler-186",
+      "yil_suresi_dunya_gunu": 129.945392,
+      "uydu_bilgisi": "Doğrulanmış doğal uydu sayısı bu kayıtta belirtilmemiştir.",
+      "uzaklik_dunya_isik_yili": 579.1,
+      "yaricap_dunya": 1.17,
+      "arsiv_durumu": "Confirmed Controversial",
+      "kaynak": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-186"
+    },
+    "51_pegasi_b": {
+      "isim": "51 Pegasi b",
+      "tur": "Gaz devi / Sıcak Jüpiter",
+      "uydu_sayisi": null,
+      "dunyaya_uzakligi_km": "477,3 trilyon",
+      "yildizina_uzakligi_au": 0.052,
+      "aciklama": "51 Pegasi b, 1995 yılında keşfedilen ve Güneş benzeri bir yıldızın etrafında bulunduğu doğrulanan ilk ötegezegendir. Yıldızına çok yakın olduğu için bir yörüngesini yaklaşık 4,23 günde tamamlar.",
+      "kategori": "Ötegezegen",
+      "alternatif_isimler": [
+        "51 Peg b",
+        "Dimidium"
+      ],
+      "yildiz": "51 Pegasi",
+      "yil_suresi_dunya_gunu": 4.2307966,
+      "uydu_bilgisi": "Doğrulanmış doğal uydu sayısı bu kayıtta belirtilmemiştir.",
+      "kutle_jupiter": 0.61,
+      "arsiv_durumu": "Confirmed Planet",
+      "kaynak": "https://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-DisplayOverview?objname=51+Peg+b"
+    },
+    "hd_209458_b": {
+      "isim": "HD 209458 b",
+      "tur": "Gaz devi / Sıcak Jüpiter",
+      "uydu_sayisi": null,
+      "dunyaya_uzakligi_km": "1,49 katrilyon",
+      "yildizina_uzakligi_au": 0.047,
+      "aciklama": "HD 209458 b, atmosferi ayrıntılı olarak incelenen önemli ötegezegenlerden biridir. Atmosferinden uzaya doğru gaz kaçışı gözlemlenmiştir.",
+      "kategori": "Ötegezegen",
+      "alternatif_isimler": [
+        "HD 209458b",
+        "Osiris"
+      ],
+      "yildiz": "HD 209458",
+      "yil_suresi_dunya_gunu": 3.5247,
+      "uydu_bilgisi": "Doğrulanmış doğal uydu sayısı bu kayıtta belirtilmemiştir.",
+      "arsiv_durumu": "Confirmed Planet",
+      "kaynak": "https://exoplanetarchive.ipac.caltech.edu/"
+    }
+  },
+  "uzay_bilgileri": [
+    "Uzay, Dünya atmosferinin ötesindeki bölgedir.",
+    "Dünya, Güneş Sistemi'nde yaşam olduğu bilinen tek gezegendir.",
+    "Güneş, Güneş Sistemi'nin merkezindeki yıldızdır.",
+    "Güneş Sistemi'nde sekiz gezegen bulunur.",
+    "Gezegenler Güneş'in etrafında dolanır.",
+    "Dünya, Güneş'in etrafındaki bir turunu yaklaşık 365,25 günde tamamlar.",
+    "Dünya'nın kendi ekseni etrafındaki bir dönüşü yaklaşık 24 saat sürer.",
+    "Ay, Dünya'nın doğal uydusudur.",
+    "Ay'ın Dünya etrafındaki bir turu yaklaşık 27,3 gün sürer.",
+    "Ay'ın kendi ekseni etrafındaki dönüş süresi ile Dünya etrafındaki dolanma süresi yaklaşık olarak aynıdır.",
+    "Bu nedenle Ay'ın yaklaşık olarak aynı yüzünü sürekli Dünya'ya dönük görürüz.",
+    "Güneş Sistemi'nin en büyük gezegeni Jüpiter'dir.",
+    "Güneş Sistemi'nin en küçük gezegeni Merkür'dür.",
+    "Güneş'e en yakın gezegen Merkür'dür.",
+    "Güneş'e en uzak gezegen Neptün'dür.",
+    "Merkür'ün bilinen doğal uydusu yoktur.",
+    "Venüs'ün bilinen doğal uydusu yoktur.",
+    "Dünya'nın bir doğal uydusu vardır.",
+    "Mars'ın Phobos ve Deimos adlı iki doğal uydusu vardır.",
+    "Jüpiter'in çok sayıda doğal uydusu vardır.",
+    "Satürn'ün çok sayıda doğal uydusu vardır.",
+    "Uranüs'ün NASA tarafından Ağustos 2026 itibarıyla resmi olarak tanınan 29 doğal uydusu vardır.",
+    "Neptün'ün bilinen 16 doğal uydusu vardır.",
+    "Mars, yüzeyindeki demir minerallerinin oksitlenmesi nedeniyle kırmızımsı görünür.",
+    "Venüs, Güneş Sistemi'ndeki en sıcak gezegendir.",
+    "Venüs'ün atmosferi büyük ölçüde karbondioksitten oluşur.",
+    "Merkür, Güneş Sistemi'ndeki en küçük gezegendir.",
+    "Merkür'ün atmosferi Dünya'dakinden çok daha incedir.",
+    "Dünya'nın atmosferinin büyük bölümü azot ve oksijenden oluşur.",
+    "Mars'ın atmosferi büyük ölçüde karbondioksitten oluşur.",
+    "Jüpiter bir gaz devidir.",
+    "Satürn bir gaz devidir.",
+    "Uranüs bir buz devidir.",
+    "Neptün bir buz devidir.",
+    "Uranüs'ün eksen eğikliği yaklaşık 98 derecedir.",
+    "Uranüs bu nedenle Güneş'in etrafında adeta yan yatmış şekilde dolanır.",
+    "Satürn belirgin halka sistemiyle tanınır.",
+    "Jüpiter'in Büyük Kırmızı Lekesi devasa bir atmosferik fırtınadır.",
+    "Jüpiter'in Büyük Kırmızı Lekesi Dünya'dan daha büyük bir fırtına sistemi olarak gözlemlenmiştir.",
+    "Neptün çok güçlü atmosferik rüzgarlara sahiptir.",
+    "Güneş Sistemi'ndeki gezegenlerin tamamı aynı düzleme yakın yörüngelerde hareket eder.",
+    "Plüton, 2006 yılında cüce gezegen olarak sınıflandırılmıştır.",
+    "Plüton, Kuiper Kuşağı'nda bulunur.",
+    "Asteroitler çoğunlukla kaya ve metalden oluşan küçük Güneş Sistemi cisimleridir.",
+    "Kuyruklu yıldızlar buz, kaya ve toz içeren küçük Güneş Sistemi cisimleridir.",
+    "Bir kuyruklu yıldız Güneş'e yaklaştığında koma adı verilen bulanık bir atmosfer oluşturabilir.",
+    "Kuyruklu yıldızların kuyrukları genellikle Güneş'ten uzağa doğru yönelir.",
+    "Meteoroid, uzayda bulunan küçük kaya veya metal parçalarıdır.",
+    "Bir meteoroid Dünya atmosferine girerken ışık oluşturursa buna meteor denir.",
+    "Atmosferden geçip yere ulaşan parçaya meteorit denir.",
+    "Güneş bir yıldızdır.",
+    "Güneş, Samanyolu Galaksisi'nde bulunan sıradan bir yıldız türü olan G tipi ana kol yıldızıdır.",
+    "Güneş'in yaşı yaklaşık 4,6 milyar yıldır.",
+    "Güneş'in çapı Dünya'nın çapının yaklaşık 109 katıdır.",
+    "Güneş'in kütlesi Güneş Sistemi'nin toplam kütlesinin yaklaşık yüzde 99,8'ini oluşturur.",
+    "Güneş'in enerjisi çekirdeğinde gerçekleşen nükleer füzyondan kaynaklanır.",
+    "Güneş'in çekirdeğinde hidrojen atom çekirdekleri helyuma dönüşür.",
+    "Güneş'in yüzey sıcaklığı yaklaşık 5.500 santigrat derecedir.",
+    "Güneş'in çekirdeği yüzeyinden çok daha sıcaktır.",
+    "Güneş ışığı Dünya'ya yaklaşık 8 dakika 20 saniyede ulaşır.",
+    "Güneş'te güneş lekeleri adı verilen daha soğuk bölgeler bulunabilir.",
+    "Güneş patlamaları yoğun elektromanyetik enerji açığa çıkarabilir.",
+    "Güneş rüzgarı Güneş'ten yayılan yüklü parçacık akışıdır.",
+    "Güneş rüzgarı Dünya'nın manyetosferini etkileyebilir.",
+    "Yıldızlar kendi ışıklarını ve enerjilerini üretir.",
+    "Yıldızların enerjisi yaşamlarının büyük bölümünde nükleer füzyon süreçlerinden gelir.",
+    "Yıldızların rengi yüzey sıcaklıkları hakkında bilgi verebilir.",
+    "Mavi yıldızlar genellikle kırmızı yıldızlardan daha yüksek yüzey sıcaklığına sahiptir.",
+    "Kırmızı cüceler, Samanyolu'ndaki en yaygın yıldız türlerinden biridir.",
+    "Proxima Centauri, Güneş'e en yakın yıldızlardan biridir.",
+    "Proxima Centauri bir kırmızı cücedir.",
+    "Güneş Sistemi Samanyolu Galaksisi'nin bir parçasıdır.",
+    "Samanyolu bir çubuklu sarmal galaksidir.",
+    "Samanyolu'nun merkezinde süper kütleli bir kara delik bulunur.",
+    "Samanyolu'nun merkezindeki süper kütleli kara deliğin adı Sagittarius A*'dır.",
+    "Sagittarius A* yaklaşık dört milyon Güneş kütlesine sahiptir.",
+    "Samanyolu'nda yüz milyarlarca yıldız bulunduğu düşünülmektedir.",
+    "Güneş Sistemi, Samanyolu'nun merkezinde bulunmaz.",
+    "Güneş Sistemi Samanyolu'nun Orion Kolu olarak da adlandırılan yerel sarmal kolunda bulunur.",
+    "Bir ışık yılı zaman değil, uzaklık birimidir.",
+    "Işık yılı, ışığın boşlukta bir yılda aldığı mesafedir.",
+    "Bir ışık yılı yaklaşık 9,46 trilyon kilometredir.",
+    "Işık boşlukta saniyede yaklaşık 299.792 kilometre hızla ilerler.",
+    "Güneş'ten çıkan ışık Dünya'ya yaklaşık 8 dakika 20 saniyede ulaşır.",
+    "Bir astronomik birim, Dünya ile Güneş arasındaki ortalama uzaklığı ifade eder.",
+    "Bir astronomik birim yaklaşık 149,6 milyon kilometredir.",
+    "Parsek, astronomide kullanılan bir uzaklık birimidir.",
+    "Bir parsek yaklaşık 3,26 ışık yılıdır.",
+    "Işık hızına göre çok uzak gökcisimlerine baktığımızda onların geçmişteki halini görürüz.",
+    "Bir gökcisminin ışığı bize 100 yıl sonra ulaşıyorsa onu yaklaşık 100 yıl önceki haliyle görürüz.",
+    "Galaksiler milyarlarca yıldız, gaz, toz ve karanlık madde içerebilir.",
+    "Galaksiler farklı şekil ve boyutlarda bulunabilir.",
+    "Sarmal galaksilerin belirgin kolları bulunabilir.",
+    "Eliptik galaksiler genellikle daha oval veya yuvarlak görünümlüdür.",
+    "Düzensiz galaksilerin belirgin bir şekli olmayabilir.",
+    "Andromeda Galaksisi, Samanyolu'na en yakın büyük galaksilerden biridir.",
+    "Andromeda Galaksisi yaklaşık 2,5 milyon ışık yılı uzaklıktadır.",
+    "Samanyolu ve Andromeda'nın gelecekte birbirleriyle etkileşime girmesi beklenmektedir.",
+    "Evrenin milyarlarca galaksi içerdiği düşünülmektedir.",
+    "Evrenin gözlemlenebilir kısmı, ışığının bize ulaşabildiği bölgedir.",
+    "Gözlemlenebilir evrenin çapının yaklaşık 93 milyar ışık yılı olduğu tahmin edilmektedir.",
+    "Kara delik, kütleçekiminin çok güçlü olduğu bir uzay-zaman bölgesidir.",
+    "Kara deliklerin olay ufku adı verilen bir sınırı vardır.",
+    "Olay ufkunun içinden ışığın kaçması mümkün değildir.",
+    "Kara delikler doğrudan ışık yaymadıkları için kendilerini kolayca göremeyiz.",
+    "Kara delikler çevrelerindeki madde üzerindeki etkileriyle tespit edilebilir.",
+    "Bazı kara deliklerin çevresinde çok sıcak madde diskleri bulunabilir.",
+    "Yıldız kütleli kara delikler büyük yıldızların yaşamlarının sonunda oluşabilir.",
+    "Süper kütleli kara delikler galaksilerin merkezlerinde bulunabilir.",
+    "Kara deliklerin birleşmesi kütleçekim dalgaları oluşturabilir.",
+    "Kütleçekim dalgaları uzay-zamandaki dalgalanmalardır.",
+    "Ötegezegen, Güneş Sistemi dışında bulunan gezegendir.",
+    "İlk doğrulanmış ötegezegenlerin keşfi astronomide büyük bir dönüm noktası olmuştur.",
+    "51 Pegasi b, 1995 yılında keşfedilen önemli bir ötegezegendir.",
+    "51 Pegasi b bir sıcak Jüpiter türü gaz devidir.",
+    "Proxima Centauri b, Güneş Sistemi'ne en yakın bilinen ötegezegenlerden biridir.",
+    "TRAPPIST-1 sistemi yedi Dünya boyutuna yakın gezegen içerir.",
+    "TRAPPIST-1e, yaşam araştırmaları açısından ilgi çeken ötegezegenlerden biridir.",
+    "Kepler-186f, Dünya boyutlu önemli bir ötegezegendir.",
+    "Bazı ötegezegenler yıldızlarının yaşanabilir bölgelerinde bulunur.",
+    "Yaşanabilir bölge, uygun koşullarda yüzeyde sıvı su bulunmasına izin verebilecek yıldız çevresi bölgesidir.",
+    "Bir gezegenin yaşanabilir bölgede bulunması onun kesin olarak yaşam barındırdığı anlamına gelmez.",
+    "Uluslararası Uzay İstasyonu, Dünya'nın yörüngesinde bulunan büyük bir uzay istasyonudur.",
+    "Uluslararası Uzay İstasyonu yaklaşık 400 kilometre yükseklikte yörüngede bulunur.",
+    "İnsanlar uzun süreli bilimsel araştırmalar yapmak için uzay istasyonlarında görev yapabilir.",
+    "Apollo 11, insanları Ay'ın yüzeyine ulaştıran ilk görevdir.",
+    "Neil Armstrong, Ay'ın yüzeyinde yürüyen ilk insandır.",
+    "Buzz Aldrin, Ay'ın yüzeyinde yürüyen ikinci insandır.",
+    "Voyager 1, Dünya'dan gönderilmiş en uzak uzay araçlarından biridir.",
+    "Voyager görevleri dış Güneş Sistemi hakkında önemli bilgiler sağlamıştır.",
+    "James Webb Uzay Teleskobu kızılötesi dalga boylarında gözlemler yapar.",
+    "Hubble Uzay Teleskobu uzay araştırmalarının en tanınmış teleskoplarından biridir.",
+    "Mars'a çok sayıda robotik uzay aracı gönderilmiştir.",
+    "Mars gezginleri gezegenin yüzeyini incelemek için kullanılmıştır.",
+    "Uzayda ses Dünya'daki gibi yayılmaz çünkü sesin ilerlemesi için bir madde ortamına ihtiyaç vardır.",
+    "Astronotlar uzay boşluğunda normal şekilde seslerini birbirlerine iletemezler.",
+    "Uzay giysileri astronotları vakum, sıcaklık değişimleri ve diğer tehlikelere karşı korumaya yardımcı olur.",
+    "Astronotlar mikro yerçekimi ortamında Dünya'dakinden farklı hareket eder.",
+    "Yerçekimi Dünya'nın her yerinde tamamen aynı değildir.",
+    "Ay'ın yerçekimi Dünya'nın yerçekiminin yaklaşık altıda biridir.",
+    "Mars'ın yüzey yerçekimi Dünya'nınkinden daha zayıftır.",
+    "Jüpiter'in yerçekimi Dünya'nınkinden çok daha güçlüdür.",
+    "Uzayda ağırlık ile kütle aynı şey değildir.",
+    "Kütle bir cismin sahip olduğu madde miktarıyla ilişkilidir.",
+    "Ağırlık, bir cismin üzerine etki eden yerçekimi kuvvetidir.",
+    "Evrenin genişlediği gözlemlerle desteklenmektedir.",
+    "Evrenin genişlemesi, galaksilerin büyük ölçeklerde birbirlerinden uzaklaşmasıyla gözlemlenir.",
+    "Uzak galaksilerin ışığında kırmızıya kayma gözlemlenebilir.",
+    "Kırmızıya kayma, bir gökcisminin ışığının daha uzun dalga boylarına kaymasıdır.",
+    "Büyük Patlama modeli, evrenin erken dönemindeki sıcak ve yoğun durumunu açıklar.",
+    "Kozmik mikrodalga arka plan ışıması, erken evrenden kalan önemli bir gözlemdir.",
+    "Karanlık madde ışıkla doğrudan etkileşimi çok zayıf olduğu düşünülen bir madde türüdür.",
+    "Karanlık enerji, evrenin genişlemesinin hızlanmasıyla ilişkilendirilen bir kavramdır.",
+    "Evrenin büyük bölümünün karanlık enerji ve karanlık maddeden oluştuğu düşünülmektedir.",
+    "Bir gezegenin yıldızının etrafındaki yörünge süresi, gezegenin yılıdır.",
+    "Dünya'nın Güneş etrafındaki yörünge süresi yaklaşık 365,25 gündür.",
+    "Mars'ın Güneş etrafındaki bir turu yaklaşık 687 Dünya günü sürer.",
+    "Jüpiter'in Güneş etrafındaki bir turu yaklaşık 11,86 Dünya yılı sürer.",
+    "Satürn'ün Güneş etrafındaki bir turu yaklaşık 29,5 Dünya yılı sürer.",
+    "Uranüs'ün Güneş etrafındaki bir turu yaklaşık 84 Dünya yılı sürer.",
+    "Neptün'ün Güneş etrafındaki bir turu yaklaşık 165 Dünya yılı sürer.",
+    "Merkür'ün Güneş etrafındaki bir turu yaklaşık 88 Dünya günü sürer.",
+    "Venüs'ün Güneş etrafındaki bir turu yaklaşık 225 Dünya günü sürer.",
+    "Dünya'nın manyetik alanı Güneş rüzgarına karşı önemli bir koruma sağlar.",
+    "Kutup ışıkları, yüklü parçacıkların Dünya'nın üst atmosferiyle etkileşmesi sonucunda oluşabilir.",
+    "Kuzey ışıkları aurora borealis olarak adlandırılır.",
+    "Güney ışıkları aurora australis olarak adlandırılır.",
+    "Ay'ın kütleçekimi Dünya'daki gelgitlerin oluşmasında önemli rol oynar.",
+    "Güneş'in kütleçekimi gezegenleri yörüngelerinde tutar.",
+    "Kütleçekim, evrendeki büyük ölçekli yapıların oluşumunda önemli bir kuvvettir.",
+    "NASA'nın erişilen Jupiter Moons sayfasına göre Jüpiter'in IAU tarafından resmi olarak tanınan 115 doğal uydusu vardır (erişim: 17 Kasım 2026).",
+    "NASA, Satürn'ün Ağustos 2026 itibarıyla 293 doğrulanmış doğal uydusu olduğunu belirtmektedir.",
+    "NASA, Uranüs'ün Ağustos 2026 itibarıyla 29 resmi olarak tanınan doğal uydusu olduğunu belirtmektedir.",
+    "Neptün'ün NASA tarafından listelenen resmi olarak tanınmış 16 doğal uydusu vardır.",
+    "Ganymede, Güneş Sistemi'ndeki en büyük doğal uydudur.",
+    "Io, Güneş Sistemi'nde volkanik etkinliği en yüksek gök cisimlerinden biridir.",
+    "Europa'nın buzlu kabuğunun altında tuzlu su okyanusu bulunabileceğine dair güçlü kanıtlar vardır.",
+    "Enceladus'un güney kutbundaki çatlaklardan su buharı ve buz parçacıkları uzaya püskürür.",
+    "Titan, Satürn'ün yoğun atmosfere sahip en büyük uydusudur.",
+    "Triton, Neptün çevresinde retrograd yönde dolanır.",
+    "Plüton'un beş doğal uydusu vardır; en büyüğü Charon'dur.",
+    "Ceres, asteroit kuşağında bulunan bir cüce gezegendir.",
+    "Eris'in bilinen doğal uydusu Dysnomia'dır.",
+    "Haumea'nın bilinen iki doğal uydusu Hiʻiaka ve Namaka'dır.",
+    "Makemake'nin bilinen küçük uydusu MK2 olarak adlandırılır.",
+    "Ötegezegen, Güneş dışında bir yıldızın veya yıldız kalıntısının çevresinde dolanan gezegendir.",
+    "Ötegezegenlerin keşfinde transit ve radyal hız yöntemleri sık kullanılır.",
+    "Transit yönteminde, bir gezegen yıldızının önünden geçerken yıldızın gözlenen parlaklığı çok az azalır.",
+    "Radyal hız yöntemi, yıldızın gezegenin kütleçekim etkisiyle yaptığı küçük hareketleri tayf çizgilerindeki Doppler kaymasıyla ölçer.",
+    "Doğrudan görüntüleme yöntemi, yıldız ışığından ayrıştırılabilen genç, büyük veya yıldızından uzakta bulunan bazı ötegezegenleri görüntülemeyi hedefler.",
+    "NASA Exoplanet Archive, 12 Kasım 2026 tarihinde 6.470 doğrulanmış ötegezegen kaydı bildiriyordu; bu sayı zamanla değişebilir.",
+    "James Webb Uzay Teleskobu ağırlıklı olarak kızılötesi dalga boylarında gözlem yapar.",
+    "Hubble Uzay Teleskobu görünür ışığın yanı sıra morötesi ve yakın kızılötesi bölgelerde de gözlem yapabilir.",
+    "Voyager 2, Uranüs ve Neptün'ün yakınından geçen tek uzay aracıdır.",
+    "Cassini-Huygens görevi, Huygens iniş aracıyla Titan yüzeyine başarılı bir iniş gerçekleştirmiştir.",
+    "New Horizons, 2015 yılında Plüton sisteminin ilk yakın çekim incelemesini gerçekleştirmiştir.",
+    "OSIRIS-REx'in Bennu asteroidinden topladığı örnekler 2023 yılında Dünya'ya ulaştırılmıştır.",
+    "DART görevi, Dimorphos asteroid uydusunun yörüngesini değiştirerek kinetik çarpma yöntemini test etmiştir.",
+    "Bir yıldızın tayfı, sıcaklığı ve kimyasal bileşimi hakkında bilgi sağlayabilir.",
+    "Bir yıldızın ışık eğrisi, parlaklığının zaman içindeki değişimini gösterir.",
+    "Bir ötegezegenin yaşanabilir bölgede bulunması, yüzeyinde kesinlikle yaşam olduğu anlamına gelmez.",
+    "Bir gezegenin kütlesi ile yarıçapı birlikte kullanılarak ortalama yoğunluğu hesaplanabilir.",
+    "Bir gök cisminin yörüngesi her zaman tam daire değildir; birçok yörünge elips biçimindedir.",
+    "Kütleçekimsel merceklenme, büyük kütlelerin arka plandaki cisimlerden gelen ışığı bükmesiyle oluşur.",
+    "NASA Exoplanet Archive, 12 Kasım 2026 tarihinde 6.470 doğrulanmış gezegen kaydı gösteriyordu; adaylar bu sayıya dahil değildir."
+  ],
+  "uzay_terimleri": {
+    "astronomi": {
+      "tanım": "Gök cisimlerini ve evreni inceleyen bilim dalı.",
+      "alternatif_isimler": [
+        "astronomy"
+      ]
+    },
+    "gezegen": {
+      "tanım": "Bir yıldızın etrafında dönen, kendi ışığını üretmeyen gök cismi."
+    },
+    "yıldız": {
+      "tanım": "Kendi ışığını ve enerjisini üreten devasa gaz ve plazma yapısı."
+    },
+    "galaksi": {
+      "tanım": "Milyarlarca yıldız, gaz, toz ve karanlık madde içeren büyük kozmik yapı."
+    },
+    "kara delik": {
+      "tanım": "Kütleçekiminin çok güçlü olduğu ve olay ufkunun içinden ışığın kaçamadığı uzay-zaman bölgesi.",
+      "alternatif_isimler": [
+        "karadelik",
+        "black hole"
+      ]
+    },
+    "ötegezegen": {
+      "tanım": "Güneş Sistemi dışında bulunan gezegen.",
+      "alternatif_isimler": [
+        "exoplanet"
+      ]
+    },
+    "kuyruklu yıldız": {
+      "tanım": "Buz, kaya ve toz içeren küçük Güneş Sistemi cismi."
+    },
+    "asteroit": {
+      "tanım": "Çoğunlukla kaya ve metalden oluşan küçük Güneş Sistemi cismi."
+    },
+    "meteoroid": {
+      "tanım": "Uzayda bulunan küçük kaya veya metal parçası."
+    },
+    "kütleçekim dalgası": {
+      "tanım": "Hızlanan büyük kütleli cisimlerin neden olduğu uzay-zaman dalgalanması.",
+      "alternatif_isimler": [
+        "yercekimi dalgasi",
+        "gravitational wave"
+      ]
+    },
+    "astrofizik": {
+      "tanım": "Gök cisimlerinin fiziksel özelliklerini ve davranışlarını inceleyen astronomi dalı.",
+      "alternatif_isimler": [
+        "astrophysics"
+      ]
+    },
+    "kozmoloji": {
+      "tanım": "Evrenin kökenini, yapısını, gelişimini ve geleceğini inceleyen bilim dalı.",
+      "alternatif_isimler": [
+        "cosmology"
+      ]
+    },
+    "gök cismi": {
+      "tanım": "Uzayda doğal olarak bulunan gezegen, yıldız, uydu, asteroid ve benzeri astronomik cisimlerin genel adı."
+    },
+    "doğal uydu": {
+      "tanım": "Bir gezegen, cüce gezegen veya başka bir gök cisminin yörüngesinde doğal olarak dönen cisim."
+    },
+    "cüce gezegen": {
+      "tanım": "Güneş'in etrafında dönen, yaklaşık küresel şekle sahip ancak yörüngesini diğer cisimlerden temizlememiş gök cismi."
+    },
+    "halka sistemi": {
+      "tanım": "Bir gezegen veya başka bir gök cisminin çevresinde bulunan buz, kaya ve toz parçalarından oluşan yapı."
+    },
+    "asteroit kuşağı": {
+      "tanım": "Mars ile Jüpiter arasında bulunan çok sayıda küçük gök cisminin yoğun olduğu bölge."
+    },
+    "kuiper kuşağı": {
+      "tanım": "Neptün'ün ötesinde bulunan buzlu küçük cisimlerden oluşan bölge."
+    },
+    "oort bulutu": {
+      "tanım": "Güneş Sistemi'nin çok uzak dış bölgelerinde bulunduğu düşünülen devasa buzlu cisim rezervuarı."
+    },
+    "trans-neptün cismi": {
+      "tanım": "Yörüngesi Neptün'ün yörüngesinin dış kısmında bulunan Güneş Sistemi cisminin genel adı."
+    },
+    "centaur": {
+      "tanım": "Asteroitler ile kuyruklu yıldızlar arasında özellikler gösterebilen, genellikle dev gezegenlerin arasında yörüngede bulunan küçük cisim."
+    },
+    "meteor": {
+      "tanım": "Bir meteoroidin atmosfere girerken oluşturduğu ışıklı olay."
+    },
+    "göktaşı": {
+      "tanım": "Bir meteoroidin atmosferden geçtikten sonra yüzeye ulaşan parçası."
+    },
+    "bolid": {
+      "tanım": "Atmosfere girerken çok parlak bir meteor oluşturan ve çoğu zaman parçalanan gök cismi."
+    },
+    "ateştopu": {
+      "tanım": "Gökyüzünde Venüs'ten daha parlak görülebilen çok parlak meteor olayı."
+    },
+    "takımyıldız": {
+      "tanım": "Dünya'dan bakıldığında belirli bir şekil veya desen oluşturuyor gibi görünen yıldız bölgesi."
+    },
+    "asterizm": {
+      "tanım": "Resmî bir takımyıldız olmayan ancak kolayca tanınabilen yıldız deseni."
+    },
+    "bulutsu": {
+      "tanım": "Uzayda bulunan yoğun gaz ve toz bulutlarının oluşturduğu geniş yapı."
+    },
+    "moleküler bulut": {
+      "tanım": "Çoğunlukla moleküler hidrojen içeren, yıldız oluşumunun gerçekleşebildiği yoğun ve soğuk gaz bulutu."
+    },
+    "yıldız doğumevi": {
+      "tanım": "Yeni yıldızların oluştuğu gaz ve toz bakımından yoğun bölge."
+    },
+    "önyıldız": {
+      "tanım": "Bir gaz ve toz bulutunun çökmesiyle oluşan, ancak çekirdeğinde kararlı hidrojen füzyonu henüz başlamamış yıldız oluşum aşaması."
+    },
+    "anakol yıldızı": {
+      "tanım": "Çekirdeğinde hidrojen füzyonu gerçekleştiren yıldızların bulunduğu temel yıldız evresi."
+    },
+    "kırmızı cüce": {
+      "tanım": "Güneş'ten daha küçük, daha soğuk ve daha düşük kütleli yıldız türü."
+    },
+    "kahverengi cüce": {
+      "tanım": "Gezegenden daha büyük ancak çekirdeğinde kalıcı hidrojen füzyonu başlatmak için yeterli kütleye sahip olmayan gök cismi."
+    },
+    "beyaz cüce": {
+      "tanım": "Düşük veya orta kütleli bir yıldızın yaşamının sonunda geride kalan yoğun yıldız kalıntısı.",
+      "alternatif_isimler": [
+        "white dwarf"
+      ]
+    },
+    "nötron yıldızı": {
+      "tanım": "Büyük bir yıldızın çöküşü sonrasında geriye kalan, çoğunlukla nötronlardan oluşan son derece yoğun yıldız kalıntısı.",
+      "alternatif_isimler": [
+        "neutron star"
+      ]
+    },
+    "pulsar": {
+      "tanım": "Hızlı dönen nötron yıldızının kutuplarından yayılan ışınımın düzenli darbeler halinde algılanmasıyla gözlenen kaynak."
+    },
+    "magnetar": {
+      "tanım": "Son derece güçlü manyetik alana sahip özel bir nötron yıldızı türü."
+    },
+    "kırmızı dev": {
+      "tanım": "Yakıtının önemli bölümünü tüketmiş ve dış katmanları büyük ölçüde genişlemiş yıldız."
+    },
+    "mavi dev": {
+      "tanım": "Genellikle yüksek kütleli ve yüzey sıcaklığı yüksek olan parlak yıldız."
+    },
+    "süperdev": {
+      "tanım": "Çok büyük yarıçap ve yüksek parlaklığa sahip dev yıldız sınıfı."
+    },
+    "değişen yıldız": {
+      "tanım": "Parlaklığı zaman içinde ölçülebilir şekilde değişen yıldız."
+    },
+    "çift yıldız": {
+      "tanım": "Ortak kütle merkezi etrafında birbirlerinin yörüngesinde bulunan iki yıldız sistemi."
+    },
+    "çoklu yıldız sistemi": {
+      "tanım": "İki veya daha fazla yıldızın kütleçekimsel olarak bağlı olduğu sistem."
+    },
+    "yıldız kümesi": {
+      "tanım": "Kütleçekim tarafından birlikte tutulan çok sayıdaki yıldızdan oluşan yapı."
+    },
+    "açık yıldız kümesi": {
+      "tanım": "Genellikle galaksilerin disklerinde bulunan, nispeten gevşek yapılı yıldız kümesi."
+    },
+    "küresel yıldız kümesi": {
+      "tanım": "Çok sayıda yaşlı yıldızın küresel ve yoğun bir yapı oluşturduğu yıldız kümesi."
+    },
+    "süpernova": {
+      "tanım": "Bazı yıldızların yaşamlarının sonunda veya özel yıldız sistemlerinde meydana gelen son derece güçlü yıldız patlaması."
+    },
+    "nova": {
+      "tanım": "Genellikle bir beyaz cücenin yüzeyinde biriken maddenin ani nükleer tepkimesi sonucu oluşan parlaklık artışı."
+    },
+    "kilonova": {
+      "tanım": "İki nötron yıldızının veya nötron yıldızı ile kara deliğin birleşmesiyle ilişkili güçlü astronomik patlama."
+    },
+    "yıldız evrimi": {
+      "tanım": "Bir yıldızın oluşumundan yaşamının sonuna kadar geçirdiği fiziksel değişimlerin bütünü."
+    },
+    "yıldız oluşumu": {
+      "tanım": "Gaz ve toz bulutlarının kütleçekim etkisiyle çökerek yeni yıldızlar oluşturması süreci."
+    },
+    "çekirdek füzyonu": {
+      "tanım": "Hafif atom çekirdeklerinin birleşerek daha ağır çekirdekler oluşturması sırasında enerji açığa çıkaran nükleer süreç."
+    },
+    "nükleosentez": {
+      "tanım": "Atom çekirdeklerinin yıldızlarda, Büyük Patlama'da veya diğer yüksek enerjili ortamlarda oluşması süreci."
+    },
+    "yıldız atmosferi": {
+      "tanım": "Bir yıldızın gözlemlenebilen dış katmanlarının genel adı."
+    },
+    "fotosfer": {
+      "tanım": "Bir yıldızın ışığının büyük bölümünün uzaya çıktığı görünür yüzey tabakası."
+    },
+    "kromosfer": {
+      "tanım": "Bir yıldızın fotosferinin üzerinde bulunan atmosfer tabakası."
+    },
+    "korona": {
+      "tanım": "Bir yıldızın en dış ve çok sıcak atmosfer tabakası."
+    },
+    "yıldız lekesi": {
+      "tanım": "Yıldız yüzeyinde çevresine göre daha soğuk ve daha koyu görünen manyetik bölge."
+    },
+    "yıldız rüzgarı": {
+      "tanım": "Bir yıldızdan uzaya doğru sürekli olarak yayılan yüklü parçacık akışı."
+    },
+    "güneş rüzgarı": {
+      "tanım": "Güneş'ten sürekli olarak yayılan yüklü parçacık akışı.",
+      "alternatif_isimler": [
+        "solar wind"
+      ]
+    },
+    "güneş patlaması": {
+      "tanım": "Güneş atmosferinde gerçekleşen ve çok büyük miktarda enerji açığa çıkarabilen ani elektromanyetik olay."
+    },
+    "koronal kütle atımı": {
+      "tanım": "Güneş koronundan büyük miktarda plazma ve manyetik alanın uzaya fırlatılması olayı."
+    },
+    "heliosfer": {
+      "tanım": "Güneş rüzgarının ve Güneş'in manyetik etkisinin büyük ölçekte oluşturduğu uzay bölgesi."
+    },
+    "heliopoz": {
+      "tanım": "Güneş rüzgarının yıldızlararası ortamla baskın biçimde etkileşmeye başladığı heliosferin sınır bölgesi."
+    },
+    "manyetosfer": {
+      "tanım": "Bir gezegenin manyetik alanının uzaydan gelen yüklü parçacıklara karşı oluşturduğu koruyucu bölge."
+    },
+    "iyonosfer": {
+      "tanım": "Bir gezegen atmosferinde çok sayıda iyon ve serbest elektron içeren iyonlaşmış bölge."
+    },
+    "ekzosfer": {
+      "tanım": "Bir gezegen atmosferinin uzaya geçiş yaptığı en dış katman."
+    },
+    "termosfer": {
+      "tanım": "Dünya atmosferinde sıcaklığın yükseklikle önemli ölçüde arttığı üst atmosfer katmanı."
+    },
+    "aurora": {
+      "tanım": "Yüklü parçacıkların atmosferle etkileşmesi sonucu özellikle kutup bölgelerinde görülen ışık olayı."
+    },
+    "yörünge": {
+      "tanım": "Bir cismin başka bir cisim etrafında kütleçekim etkisi altında izlediği yol.",
+      "alternatif_isimler": [
+        "orbit"
+      ]
+    },
+    "yörünge periyodu": {
+      "tanım": "Bir cismin yörüngesini bir kez tamamlaması için geçen süre."
+    },
+    "dönme": {
+      "tanım": "Bir gök cisminin kendi ekseni etrafında hareket etmesi."
+    },
+    "dolanma": {
+      "tanım": "Bir gök cisminin başka bir cismin etrafında hareket etmesi."
+    },
+    "eksen eğikliği": {
+      "tanım": "Bir gök cisminin dönme ekseninin yörünge düzlemine göre sahip olduğu eğim."
+    },
+    "dönüş yönü": {
+      "tanım": "Bir gök cisminin kendi ekseni veya yörüngesi üzerindeki hareket yönü."
+    },
+    "prograd hareket": {
+      "tanım": "Bir cismin sistemdeki baskın dönme veya dolanma yönüyle aynı yöndeki hareketi."
+    },
+    "retrograd hareket": {
+      "tanım": "Bir cismin sistemdeki baskın dönme veya dolanma yönünün tersindeki hareketi."
+    },
+    "kütle merkezi": {
+      "tanım": "İki veya daha fazla cismin hareketini birlikte belirleyen ortak kütle merkezi."
+    },
+    "barymerkez": {
+      "tanım": "Birbirine kütleçekimsel olarak bağlı iki veya daha fazla cismin ortak kütle merkezi."
+    },
+    "gelgit kilitlenmesi": {
+      "tanım": "Bir cismin dönme periyodunun yörünge periyoduna eşitlenmesi sonucu aynı yüzünü sürekli olarak diğer cisme dönük tutması."
+    },
+    "gelgit kuvveti": {
+      "tanım": "Kütleçekimin bir cismin farklı bölgelerinde farklı büyüklükte etkimesinden kaynaklanan kuvvet."
+    },
+    "roche limiti": {
+      "tanım": "Bir gök cisminin gelgit kuvvetleri nedeniyle parçalanabileceği kritik uzaklık."
+    },
+    "lagrange noktası": {
+      "tanım": "İki büyük cismin kütleçekim alanlarında daha küçük bir cismin belirli koşullarda göreli olarak dengeli kalabildiği özel konum."
+    },
+    "kaçış hızı": {
+      "tanım": "Bir cismin kütleçekim alanından geri dönmeden uzaklaşabilmesi için gereken en düşük başlangıç hızı."
+    },
+    "delta-v": {
+      "tanım": "Bir uzay aracının hızını değiştirmek için gereken toplam hız değişimi ölçüsü."
+    },
+    "hohmann transferi": {
+      "tanım": "İki yaklaşık dairesel yörünge arasında geçiş için kullanılan enerji açısından verimli iki darbeli yörünge manevrası."
+    },
+    "kütleçekim yardımı": {
+      "tanım": "Bir uzay aracının bir gezegenin veya başka bir gök cisminin hareketinden yararlanarak hızını ve yönünü değiştirmesi."
+    },
+    "aerofrenleme": {
+      "tanım": "Bir atmosferin sürükleme etkisinden yararlanarak uzay aracının hızını ve yörüngesini değiştirme yöntemi."
+    },
+    "yörüngeye yerleşme": {
+      "tanım": "Bir uzay aracının hedef gök cisminin çevresinde kararlı bir yörüngeye girmesi."
+    },
+    "yörünge kaçışı": {
+      "tanım": "Bir aracın bulunduğu gök cisminin kütleçekimsel bağından kurtulacak yörüngeye girmesi."
+    },
+    "periapsis": {
+      "tanım": "Bir cismin eliptik yörüngesinde merkezi cisme en yakın olduğu nokta."
+    },
+    "apoapsis": {
+      "tanım": "Bir cismin eliptik yörüngesinde merkezi cisme en uzak olduğu nokta."
+    },
+    "perihelion": {
+      "tanım": "Bir cismin Güneş'e en yakın olduğu yörünge noktası."
+    },
+    "aphelion": {
+      "tanım": "Bir cismin Güneş'e en uzak olduğu yörünge noktası."
+    },
+    "perigee": {
+      "tanım": "Dünya çevresinde yörüngedeki bir cismin Dünya'ya en yakın olduğu nokta."
+    },
+    "apogee": {
+      "tanım": "Dünya çevresinde yörüngedeki bir cismin Dünya'ya en uzak olduğu nokta."
+    },
+    "astronomik birim": {
+      "tanım": "Dünya ile Güneş arasındaki ortalama uzaklığı temel alan astronomik mesafe birimi.",
+      "alternatif_isimler": [
+        "au",
+        "astronomical unit"
+      ]
+    },
+    "ışık yılı": {
+      "tanım": "Işığın boşlukta bir yılda aldığı mesafeye dayanan astronomik uzaklık birimi.",
+      "alternatif_isimler": [
+        "isik yili",
+        "light year",
+        "light-year"
+      ]
+    },
+    "parsek": {
+      "tanım": "Astronomide kullanılan ve yaklaşık 3,26 ışık yılına eşit olan mesafe birimi."
+    },
+    "kiloparsek": {
+      "tanım": "Bin parseklik astronomik mesafe birimi."
+    },
+    "megaparsek": {
+      "tanım": "Bir milyon parseklik astronomik mesafe birimi."
+    },
+    "ışık hızı": {
+      "tanım": "Işığın boşluktaki hızı olan yaklaşık 299792458 metre/saniye değeri."
+    },
+    "paralaks": {
+      "tanım": "Bir gözlemcinin konumu değiştiğinde yakın bir cismin uzak arka plan cisimlerine göre görünür konumunun değişmesi."
+    },
+    "özdevinim": {
+      "tanım": "Bir yıldızın uzay boyunca gökyüzündeki görünür konum değişimidir."
+    },
+    "görünür parlaklık": {
+      "tanım": "Bir gök cisminin Dünya'dan gözlendiğinde görünen parlaklığı."
+    },
+    "mutlak parlaklık": {
+      "tanım": "Bir yıldızın standartlaştırılmış uzaklıkta bulunduğu varsayılarak tanımlanan gerçek parlaklığını karşılaştırmaya yarayan ölçü."
+    },
+    "parlaklık": {
+      "tanım": "Bir gök cisminin birim zamanda yaydığı toplam enerji miktarı."
+    },
+    "tayf": {
+      "tanım": "Işığın dalga boylarına veya frekanslarına göre ayrılmış dağılımı."
+    },
+    "tayfölçümü": {
+      "tanım": "Bir kaynağın ışığını dalga boylarına ayırarak fiziksel özelliklerini inceleme yöntemi."
+    },
+    "tayf çizgisi": {
+      "tanım": "Bir gök cisminin ışık tayfında belirli atom veya moleküllerle ilişkili görülen belirgin çizgi."
+    },
+    "kırmızıya kayma": {
+      "tanım": "Bir kaynağın ışığının daha uzun dalga boylarına doğru kayması.",
+      "alternatif_isimler": [
+        "redshift"
+      ]
+    },
+    "maviye kayma": {
+      "tanım": "Bir kaynağın ışığının daha kısa dalga boylarına doğru kayması.",
+      "alternatif_isimler": [
+        "blueshift"
+      ]
+    },
+    "doppler etkisi": {
+      "tanım": "Bir kaynağın ve gözlemcinin göreli hareketi nedeniyle ölçülen frekans veya dalga boyunun değişmesi."
+    },
+    "elektromanyetik tayf": {
+      "tanım": "Radyo dalgalarından gama ışınlarına kadar tüm elektromanyetik ışınım aralığı."
+    },
+    "radyo dalgası": {
+      "tanım": "Elektromanyetik tayfın en uzun dalga boylu bölgelerinden biri."
+    },
+    "mikrodalga": {
+      "tanım": "Radyo ve kızılötesi bölgeleri arasında yer alan elektromanyetik ışınım bölgesi."
+    },
+    "kızılötesi": {
+      "tanım": "Görünür kırmızı ışığın ötesinde bulunan daha uzun dalga boylu elektromanyetik ışınım."
+    },
+    "görünür ışık": {
+      "tanım": "İnsan gözünün algılayabildiği elektromanyetik ışınım aralığı."
+    },
+    "morötesi": {
+      "tanım": "Görünür ışığın mor ucunun ötesinde bulunan daha kısa dalga boylu elektromanyetik ışınım."
+    },
+    "x-ışını": {
+      "tanım": "Yüksek enerjili ve kısa dalga boylu elektromanyetik ışınım türü."
+    },
+    "gama ışını": {
+      "tanım": "Elektromanyetik tayfın en yüksek enerjili bölgelerinden biri."
+    },
+    "foton": {
+      "tanım": "Elektromanyetik ışınımın kuantumunu temsil eden temel parçacık."
+    },
+    "nötrino": {
+      "tanım": "Maddeyle çok zayıf etkileşen, elektrik yükü olmayan temel parçacık."
+    },
+    "kozmik ışın": {
+      "tanım": "Uzaydan gelen yüksek enerjili parçacıkların genel adı."
+    },
+    "plazma": {
+      "tanım": "Elektronların atomlardan ayrıldığı, iyonlaşmış gaz halinde bulunan madde durumu."
+    },
+    "manyetik alan": {
+      "tanım": "Manyetik kuvvetlerin etkili olduğu fiziksel alan."
+    },
+    "akresyon": {
+      "tanım": "Bir gök cisminin çevresindeki maddeyi kütleçekim yoluyla biriktirmesi süreci."
+    },
+    "akresyon diski": {
+      "tanım": "Kara delik, nötron yıldızı veya yıldız gibi yoğun bir cismin çevresinde dönen sıcak madde diski."
+    },
+    "olay ufku": {
+      "tanım": "Bir kara deliğin çevresinde, içinden dışarı bilgi ve ışığın kaçamadığı sınır.",
+      "alternatif_isimler": [
+        "event horizon"
+      ]
+    },
+    "tekillik": {
+      "tanım": "Genel görelilik modellerinde uzay-zamanın aşırı şekilde eğrildiğinin matematiksel olarak ifade edildiği bölge."
+    },
+    "schwarzschild yarıçapı": {
+      "tanım": "Dönmeyen ve yüksüz bir cismin olay ufkunu tanımlayan karakteristik yarıçap."
+    },
+    "ergosfer": {
+      "tanım": "Dönen bir kara deliğin çevresinde uzay-zamanın sürüklendiği ve belirli koşullarda cismin hareketsiz kalamadığı bölge."
+    },
+    "gelgit parçalanması": {
+      "tanım": "Bir cismin güçlü gelgit kuvvetleri tarafından parçalanması olayı."
+    },
+    "spagettileşme": {
+      "tanım": "Güçlü kütleçekim gradyanı nedeniyle bir cismin büyük ölçüde uzayıp sıkışması süreci."
+    },
+    "hawking ışınımı": {
+      "tanım": "Kuantum etkileri nedeniyle kara deliklerin çok uzun zaman ölçeklerinde parçacık ve enerji yayabildiğini öngören kuramsal ışınım."
+    },
+    "relativistik jet": {
+      "tanım": "Özellikle kara delik ve nötron yıldızı çevrelerinde çok yüksek hızlarla dışarı fırlayan dar parçacık ve plazma akışı."
+    },
+    "kuasar": {
+      "tanım": "Aktif bir galaksinin merkezindeki süper kütleli kara deliğin çevresinde oluşan son derece parlak enerji kaynağı."
+    },
+    "blazar": {
+      "tanım": "Relativistik jetlerinden biri yaklaşık doğrudan Dünya'ya yönelmiş aktif galaktik çekirdek türü."
+    },
+    "aktif galaktik çekirdek": {
+      "tanım": "Galaksinin merkezindeki süper kütleli kara deliğe madde akışı nedeniyle çok güçlü ışınım üreten bölge."
+    },
+    "süper kütleli kara delik": {
+      "tanım": "Güneş'in kütlesinin milyonlarca veya milyarlarca katı olabilen büyük kara delik türü."
+    },
+    "kütleçekimsel merceklenme": {
+      "tanım": "Büyük bir kütlenin uzay-zamanı eğmesi sonucunda arkasındaki ışığın yolunun bükülmesi olayı."
+    },
+    "kütleçekimsel dalga": {
+      "tanım": "Büyük kütlelerin ivmelenmiş hareketleriyle uzay-zamanda yayılan dalgalanma."
+    },
+    "solucan deliği": {
+      "tanım": "Uzay-zamanın iki uzak bölgesini birbirine bağlayabileceği öne sürülen kuramsal yapı."
+    },
+    "karanlık madde": {
+      "tanım": "Işıkla doğrudan güçlü biçimde etkileşmeyen ancak kütleçekimsel etkileri gözlenen varsayımsal madde bileşeni."
+    },
+    "karanlık enerji": {
+      "tanım": "Evrenin genişlemesinin hızlanmasını açıklamak için kullanılan kozmolojik bileşen."
+    },
+    "antimadde": {
+      "tanım": "Normal madde parçacıklarının karşıt elektrik yüküne sahip karşı parçacıklarından oluşan madde türü."
+    },
+    "baryonik madde": {
+      "tanım": "Proton ve nötron gibi baryonlardan oluşan sıradan atomik madde."
+    },
+    "kozmik ağ": {
+      "tanım": "Galaksilerin büyük ölçekte lifler, düğümler ve boşluklardan oluşan dağılım yapısı."
+    },
+    "kozmik boşluk": {
+      "tanım": "Galaksi ve madde yoğunluğunun çevresine göre çok düşük olduğu devasa uzay bölgeleri."
+    },
+    "evrenin genişlemesi": {
+      "tanım": "Galaksiler arasındaki büyük ölçekli uzay mesafelerinin zamanla artması olayı."
+    },
+    "büyük patlama": {
+      "tanım": "Evrenin çok sıcak ve yoğun erken durumdan genişleyerek bugünkü yapısına evrilmesini açıklayan kozmolojik model."
+    },
+    "kozmik enflasyon": {
+      "tanım": "Evrenin çok erken döneminde son derece hızlı bir genişleme yaşandığını öne süren kozmolojik dönem."
+    },
+    "kozmik mikrodalga arka planı": {
+      "tanım": "Evrenin erken dönemlerinden günümüze ulaşan zayıf mikrodalga ışınımı."
+    },
+    "yeniden birleşme": {
+      "tanım": "Erken evrende elektronların çekirdeklerle birleşerek nötr atomlar oluşturmaya başladığı dönem."
+    },
+    "karanlık çağlar": {
+      "tanım": "Evrenin ilk yıldızların oluşmasından önce ışık kaynaklarının çok sınırlı olduğu erken dönemi."
+    },
+    "yeniden iyonlaşma": {
+      "tanım": "İlk yıldızlar ve galaksilerden gelen ışınımın erken evrendeki nötr gazı yeniden iyonlaştırdığı dönem."
+    },
+    "gözlemlenebilir evren": {
+      "tanım": "Işığın Dünya'ya veya gözlem noktasına ulaşmasına zaman yetmiş olan evren bölgesi."
+    },
+    "kozmik ufuk": {
+      "tanım": "Evrenin gözlemlenebilir bölümünün sınırını belirleyen kozmolojik uzaklık kavramı."
+    },
+    "kozmik artalan": {
+      "tanım": "Evrenin geniş ölçekli geçmişinden kalan ve tüm uzaya yayılmış düşük seviyeli ışınım veya parçacık ortamları için kullanılan genel ifade."
+    },
+    "kozmik zaman": {
+      "tanım": "Evrenin büyük ölçekli genişlemesiyle bağlantılı olarak kullanılan kozmolojik zaman kavramı."
+    },
+    "ışınım": {
+      "tanım": "Enerjinin elektromanyetik dalgalar veya parçacıklar aracılığıyla yayılması."
+    },
+    "yoğunluk": {
+      "tanım": "Birim hacimde bulunan madde miktarını ifade eden fiziksel büyüklük."
+    },
+    "kütle": {
+      "tanım": "Bir cismin içerdiği madde miktarını ve eylemsizlik özelliklerini tanımlayan fiziksel büyüklük."
+    },
+    "yarıçap": {
+      "tanım": "Bir gök cisminin merkezinden yüzeyine kadar olan uzaklık."
+    },
+    "çap": {
+      "tanım": "Bir gök cisminin merkezinden geçecek şekilde bir uçtan diğer uca olan uzaklık."
+    },
+    "yüzey sıcaklığı": {
+      "tanım": "Bir gök cisminin yüzey veya gözlemlenebilir dış katmanlarında ölçülen sıcaklık."
+    },
+    "albedo": {
+      "tanım": "Bir yüzeyin üzerine gelen ışınımın ne kadarını geri yansıttığını ifade eden oran."
+    },
+    "atmosfer": {
+      "tanım": "Bir gezegen veya başka bir gök cismini çevreleyen gaz tabakası."
+    },
+    "atmosfer basıncı": {
+      "tanım": "Bir atmosferin birim yüzeye uyguladığı basınç."
+    },
+    "sera etkisi": {
+      "tanım": "Bir atmosferin bazı gazları nedeniyle ısıl ışınımın tutulması ve yüzey sıcaklığının artması süreci."
+    },
+    "yaşanabilir bölge": {
+      "tanım": "Bir yıldızın çevresinde, uygun atmosfer koşulları altında yüzeyde sıvı su bulunmasına elverişli olabilecek uzaklık aralığı."
+    },
+    "sıvı su": {
+      "tanım": "Bir gezegende veya uyduda belirli sıcaklık ve basınç koşullarında sıvı halde bulunan su."
+    },
+    "biyobelirteç": {
+      "tanım": "Bir gök cisminin atmosferinde veya yüzeyinde yaşamla ilişkili olabilecek kimyasal veya fiziksel işaret."
+    },
+    "transit": {
+      "tanım": "Bir gezegenin veya başka bir cismin gözlemci ile yıldız arasından geçerek yıldızın ışığını geçici olarak azaltması."
+    },
+    "örtülme": {
+      "tanım": "Bir gök cisminin başka bir gök cismini gözlemci açısından kısmen veya tamamen kapatması."
+    },
+    "tutulma": {
+      "tanım": "Bir gök cisminin başka bir cismin gölgesine girmesi veya bir cismin diğerinin önünü kapatması sonucu oluşan astronomik olay."
+    },
+    "güneş tutulması": {
+      "tanım": "Ay'ın Güneş ile Dünya arasına girerek Güneş'in görünür diskinin bir bölümünü veya tamamını örtmesi."
+    },
+    "ay tutulması": {
+      "tanım": "Ay'ın Dünya'nın gölgesine girmesi sonucu oluşan astronomik olay."
+    },
+    "kavuşum": {
+      "tanım": "Gökyüzünde iki veya daha fazla gök cisminin birbirine yakın görünmesi."
+    },
+    "karşı konum": {
+      "tanım": "Bir dış gezegenin Dünya'dan bakıldığında Güneş'in gökyüzündeki konumunun yaklaşık karşı tarafında bulunması."
+    },
+    "ekinoks": {
+      "tanım": "Güneş'in gök ekvatorunu kestiği ve gece ile gündüz sürelerinin yaklaşık eşit olduğu zaman."
+    },
+    "gündönümü": {
+      "tanım": "Güneş'in gökyüzündeki yıllık hareketinde en kuzey veya en güney konumuna ulaştığı zaman."
+    },
+    "sinodik dönem": {
+      "tanım": "Bir gök cisminin Dünya'dan gözlenen belirli geometrik konuma tekrar gelmesine kadar geçen süre."
+    },
+    "yıldız günü": {
+      "tanım": "Bir gök cisminin uzak yıldızlara göre kendi ekseni etrafında bir kez dönmesi için geçen süre."
+    },
+    "kavuşum dönemi": {
+      "tanım": "Bir gök cisminin Güneş'e göre aynı geometrik konuma tekrar gelmesi için geçen süre."
+    },
+    "uzay aracı": {
+      "tanım": "Uzayda görev yapmak üzere tasarlanmış insanlı veya insansız araç."
+    },
+    "uzay sondası": {
+      "tanım": "Bilimsel veri toplamak amacıyla uzaya gönderilen insansız uzay aracı."
+    },
+    "yörünge aracı": {
+      "tanım": "Bir gök cisminin çevresinde yörüngeye girerek gözlem veya başka görevler yapan uzay aracı."
+    },
+    "iniş aracı": {
+      "tanım": "Bir gök cisminin yüzeyine kontrollü şekilde iniş yapmak için tasarlanmış uzay aracı."
+    },
+    "gezgin araç": {
+      "tanım": "Başka bir gök cisminin yüzeyinde hareket ederek bilimsel veri toplayan robotik araç."
+    },
+    "rover": {
+      "tanım": "Gezegen, uydu veya asteroid yüzeyinde hareket ederek araştırma yapan robotik keşif aracı."
+    },
+    "yapay uydu": {
+      "tanım": "İnsanlar tarafından uzaya gönderilen ve başka bir gök cisminin yörüngesinde görev yapan araç."
+    },
+    "fırlatma aracı": {
+      "tanım": "Uzay araçlarını veya yükleri uzaya taşımak için kullanılan roket sistemi."
+    },
+    "roket": {
+      "tanım": "Yakıtını ve oksitleyicisini kullanarak itki üreten ve atmosfer dışında da çalışabilen motorlu taşıt."
+    },
+    "roket kademesi": {
+      "tanım": "Bir fırlatma aracının belirli görev bölümünü gerçekleştiren ve çoğu zaman yakıtı bittikten sonra ayrılan bölümü."
+    },
+    "faydalı yük": {
+      "tanım": "Bir roket veya uzay aracının taşıdığı bilimsel, ticari veya teknolojik görev ekipmanı."
+    },
+    "uzay kapsülü": {
+      "tanım": "İnsan veya yük taşımak ve özellikle atmosferden giriş gibi görevleri gerçekleştirmek üzere tasarlanmış uzay aracı bölümü."
+    },
+    "ısı kalkanı": {
+      "tanım": "Bir uzay aracını atmosferik yeniden giriş sırasında oluşan yüksek sıcaklıklardan koruyan sistem."
+    },
+    "yeniden giriş": {
+      "tanım": "Bir uzay aracının uzaydan gezegen atmosferine tekrar girmesi."
+    },
+    "mikro yerçekimi": {
+      "tanım": "Yörüngedeki bir uzay aracında hissedilen çok düşük etkin ağırlık koşulu."
+    },
+    "uzay yürüyüşü": {
+      "tanım": "Bir astronotun uzay aracının veya istasyonun dışına çıkarak gerçekleştirdiği araç dışı faaliyet."
+    },
+    "araç dışı faaliyet": {
+      "tanım": "Astronotların basınçlı uzay aracının veya uzay istasyonunun dışında gerçekleştirdiği çalışma."
+    },
+    "uzay giysisi": {
+      "tanım": "Astronotları uzayın vakumundan, sıcaklık değişimlerinden ve diğer çevresel tehlikelerden koruyan koruyucu sistem."
+    },
+    "uzay istasyonu": {
+      "tanım": "İnsanların uzun süre yaşaması ve bilimsel çalışmalar yürütmesi için uzayda kullanılan büyük insanlı yapı."
+    },
+    "kenetlenme": {
+      "tanım": "İki uzay aracının kontrollü biçimde birbirine bağlanması."
+    },
+    "randevu manevrası": {
+      "tanım": "İki uzay aracının birbirine yaklaşmasını ve uygun yörünge geometrisine gelmesini sağlayan orbital hareket."
+    },
+    "telemetri": {
+      "tanım": "Uzay aracından yer istasyonlarına gönderilen teknik durum, ölçüm ve sensör verileri."
+    },
+    "görev kontrol merkezi": {
+      "tanım": "Bir uzay görevinin izlenmesi, yönetilmesi ve komuta edilmesi için kullanılan yer tabanlı kontrol merkezi."
+    },
+    "derin uzay ağı": {
+      "tanım": "Uzak uzay araçlarıyla iletişim kurmak için kullanılan büyük yer istasyonu ağı."
+    },
+    "uzay çöplüğü": {
+      "tanım": "Dünya yörüngesinde işlevini kaybetmiş insan yapımı nesnelerin ve parçaların oluşturduğu enkaz topluluğu."
+    },
+    "uzay enkazı": {
+      "tanım": "İnsan faaliyetlerinden kalan ve Dünya çevresinde dolaşan kullanılmayan uydu, roket veya parça kalıntıları."
+    },
+    "uzay görevi": {
+      "tanım": "Belirli bilimsel, keşif, teknolojik veya ticari hedefler için gerçekleştirilen uzay operasyonu."
+    },
+    "teleskop": {
+      "tanım": "Uzak gök cisimlerinden gelen ışığı veya diğer elektromanyetik ışınımı toplayıp incelemek için kullanılan gözlem aracı."
+    },
+    "optik teleskop": {
+      "tanım": "Görünür ışığı kullanarak gök cisimlerini gözlemleyen teleskop türü."
+    },
+    "radyo teleskobu": {
+      "tanım": "Gök cisimlerinden gelen radyo dalgalarını algılayan büyük astronomik gözlem sistemi."
+    },
+    "uzay teleskobu": {
+      "tanım": "Dünya atmosferinin dışında çalışarak astronomik gözlemler yapan teleskop."
+    },
+    "interferometre": {
+      "tanım": "Birden fazla gözlem cihazından gelen dalgaları birleştirerek daha yüksek çözünürlüklü gözlemler yapılmasını sağlayan sistem."
+    },
+    "spektrometre": {
+      "tanım": "Işığı dalga boylarına ayırarak bir kaynağın tayfsal özelliklerini ölçen cihaz."
+    },
+    "fotometre": {
+      "tanım": "Bir gök cisminin ışık şiddetini veya parlaklığını ölçen cihaz."
+    },
+    "koronograf": {
+      "tanım": "Bir yıldızın parlak ışığını yapay olarak engelleyerek yakınındaki daha sönük cisimleri gözlemlemeye yardımcı olan optik sistem."
+    },
+    "uyarlamalı optik": {
+      "tanım": "Dünya atmosferindeki türbülansın görüntü üzerindeki etkisini gerçek zamanlı olarak azaltan optik teknoloji."
+    },
+    "ccd": {
+      "tanım": "Işığı elektrik sinyaline dönüştürerek görüntü oluşturan hassas elektronik görüntü algılayıcı."
+    },
+    "cismin dönme ekseni": {
+      "tanım": "Bir gök cisminin kendi etrafında dönerken çevresinde dönüyormuş gibi davrandığı hayali çizgi."
+    },
+    "yörünge dışmerkezliği": {
+      "tanım": "Bir eliptik yörüngenin ne kadar basık veya daireselden uzak olduğunu ifade eden ölçü."
+    },
+    "yörünge eğikliği": {
+      "tanım": "Bir cismin yörünge düzleminin referans alınan düzleme göre yaptığı açı."
+    },
+    "yörünge hızı": {
+      "tanım": "Bir gök cisminin yörüngesinde hareket ettiği hız."
+    },
+    "yüzey çekimi": {
+      "tanım": "Bir gök cisminin yüzeyine yakın bölgede uyguladığı kütleçekim ivmesi."
+    },
+    "kaçış yörüngesi": {
+      "tanım": "Bir cismin merkezi gök cisminin kütleçekimsel etkisinden kalıcı olarak uzaklaşmasını sağlayan yörünge."
+    },
+    "uzay-zaman": {
+      "tanım": "Uzay ve zamanın genel görelilikte tek bir dört boyutlu yapı olarak ele alındığı kavram."
+    },
+    "genel görelilik": {
+      "tanım": "Kütleçekimini uzay-zamanın eğriliği ile açıklayan Einstein'ın kuramı."
+    },
+    "özel görelilik": {
+      "tanım": "Yüksek hızlardaki uzay ve zaman ilişkilerini tanımlayan Einstein kuramı."
+    },
+    "zaman genişlemesi": {
+      "tanım": "Hız veya kütleçekim koşulları nedeniyle farklı gözlemcilerin geçen zamanı farklı ölçebilmesi olgusu."
+    },
+    "uzunluk büzülmesi": {
+      "tanım": "Bir cismin hareket yönündeki uzunluğunun farklı referans sistemlerinde farklı ölçülmesi olgusu."
+    },
+    "eşzamanlılık": {
+      "tanım": "İki olayın aynı anda gerçekleştiği fikrinin gözlemcinin referans sistemine bağlı olabilmesi durumu."
+    },
+    "kozmik hız": {
+      "tanım": "Bir gök cisminin kütleçekimsel etkisiyle ilişkili belirli orbital veya kaçış hızlarını tanımlamak için kullanılan genel ifade."
+    },
+    "uzay boşluğu": {
+      "tanım": "Maddenin son derece seyrek bulunduğu, ancak tamamen boş olmayan uzay ortamı."
+    },
+    "vakum": {
+      "tanım": "Madde yoğunluğunun son derece düşük olduğu ortam."
+    },
+    "yıldızlararası ortam": {
+      "tanım": "Yıldız sistemleri arasındaki uzayda bulunan seyrek gaz, toz, plazma ve manyetik alan ortamı."
+    },
+    "gezegenlerarası ortam": {
+      "tanım": "Gezegenler ve diğer Güneş Sistemi cisimleri arasındaki bölgede bulunan gaz, plazma, toz ve parçacık ortamı."
+    },
+    "galaktik merkez": {
+      "tanım": "Bir galaksinin merkezi ve genellikle en yoğun bölgesi."
+    },
+    "spiral galaksi": {
+      "tanım": "Merkezî şişkinlikten çıkan spiral kollara sahip galaksi türü."
+    },
+    "eliptik galaksi": {
+      "tanım": "Genellikle eliptik veya küresel görünümlü, daha az belirgin gaz ve toz yapısına sahip galaksi türü."
+    },
+    "düzensiz galaksi": {
+      "tanım": "Belirgin spiral veya eliptik şekli olmayan galaksi türü."
+    },
+    "galaksi kümesi": {
+      "tanım": "Kütleçekim tarafından bağlı çok sayıda galaksiden oluşan büyük kozmik yapı."
+    },
+    "üstküme": {
+      "tanım": "Birden fazla galaksi kümesi ve grubunu içeren daha büyük ölçekli kozmik yapı."
+    },
+    "galaksi grubu": {
+      "tanım": "Kütleçekimsel olarak ilişkili daha küçük galaksi topluluğu."
+    },
+    "kozmik ufuk çizgisi": {
+      "tanım": "Evrenin gözlem açısından erişilebilir veya erişilemez bölgelerini tanımlayan kozmolojik sınır kavramı."
+    },
+    "madde-akresyon süreci": {
+      "tanım": "Bir gök cisminin çevresindeki gaz ve diğer maddeleri kütleçekim yoluyla biriktirmesi."
+    },
+    "enerji": {
+      "tanım": "Bir sistemin iş yapabilme kapasitesini ifade eden fiziksel büyüklük."
+    },
+    "momentum": {
+      "tanım": "Bir cismin kütlesi ile hızının çarpımına bağlı hareket miktarı."
+    },
+    "açısal momentum": {
+      "tanım": "Bir cismin dönme hareketiyle ilişkili fiziksel büyüklük."
+    },
+    "manyetik fırtına": {
+      "tanım": "Güneş etkinliği nedeniyle Dünya'nın manyetosferinde meydana gelen büyük ölçekli manyetik değişim."
+    },
+    "jeomanyetik fırtına": {
+      "tanım": "Güneş kaynaklı parçacık ve manyetik alan değişimleri nedeniyle Dünya'nın manyetosferinde oluşan güçlü bozulma."
+    },
+    "kozmik ışınım": {
+      "tanım": "Uzaydan gelen yüksek enerjili parçacık ve ışınım ortamı."
+    },
+    "gama ışını patlaması": {
+      "tanım": "Evrendeki en güçlü kısa süreli elektromanyetik patlama olaylarından biri."
+    },
+    "emisyon": {
+      "tanım": "Bir kaynağın uzaya elektromanyetik ışınım veya parçacık yayması."
+    },
+    "absorpsiyon": {
+      "tanım": "Bir maddenin veya ortamın elektromanyetik ışınımın enerjisinin bir bölümünü soğurması."
+    },
+    "soğurma çizgisi": {
+      "tanım": "Bir gazın belirli dalga boylarındaki ışığı soğurması nedeniyle tayfta oluşan koyu çizgi."
+    },
+    "emisyon çizgisi": {
+      "tanım": "Bir maddenin belirli dalga boylarında ışık yayması sonucu tayfta oluşan parlak çizgi."
+    },
+    "hidrojen": {
+      "tanım": "Evrende en bol bulunan ve yıldız oluşumu ile yıldız füzyonunda büyük önem taşıyan en hafif element."
+    },
+    "helyum": {
+      "tanım": "Yıldızlarda hidrojen füzyonunun önemli ürünlerinden biri olan hafif element."
+    },
+    "metallik": {
+      "tanım": "Astronomide hidrojen ve helyum dışındaki elementlerin yıldız veya gaz içindeki göreli bolluğunu ifade eden kavram."
+    },
+    "yıldızlararası toz": {
+      "tanım": "Yıldızlararası ortamda bulunan mikroskobik katı parçacıklardan oluşan madde."
+    },
+    "gezegen bilimi": {
+      "tanım": "Gezegenleri, uyduları, asteroidleri, kuyruklu yıldızları ve diğer gezegensel sistemleri inceleyen bilim alanı."
+    },
+    "gök mekaniği": {
+      "tanım": "Gök cisimlerinin hareketlerini kütleçekim ve hareket yasalarıyla inceleyen bilim dalı."
+    },
+    "asteroseismoloji": {
+      "tanım": "Yıldızların iç yapısını onların titreşim ve salınımlarını inceleyerek araştıran bilim dalı."
+    },
+    "helyoseismoloji": {
+      "tanım": "Güneş'in iç yapısını titreşimlerini inceleyerek araştırma yöntemi."
+    },
+    "astrojeoloji": {
+      "tanım": "Gezegen, uydu, asteroid ve diğer gök cisimlerinin jeolojik yapısını inceleyen alan."
+    },
+    "astrobiyoloji": {
+      "tanım": "Evrende yaşamın kökenini, gelişimini ve olası varlığını araştıran disiplinler arası bilim alanı."
+    },
+    "SETI": {
+      "tanım": "Dünya dışı akıllı yaşamın olası teknolojik işaretlerini araştırmaya yönelik çalışmaların genel adı."
+    },
+    "teknolojik iz": {
+      "tanım": "Dünya dışı teknolojik bir uygarlığın varlığına işaret edebilecek gözlemsel belirti veya sinyal."
+    },
+    "biyolojik yaşam": {
+      "tanım": "Canlı organizmaların ortaya çıkması ve yaşam süreçlerini sürdürmesi durumunu ifade eden genel kavram."
+    },
+    "gezegensel sistem": {
+      "tanım": "Bir yıldız veya yıldız sistemi etrafında bulunan gezegenler ve diğer bağlı gök cisimlerinin bütünü."
+    },
+    "protoplanet": {
+      "tanım": "Gezegen oluşumu sürecinde büyüyen ve daha küçük cisimleri biriktiren büyük gezegensel öncü cisim."
+    },
+    "protoplanet diski": {
+      "tanım": "Genç bir yıldızın çevresinde bulunan ve gezegenlerin oluşabildiği gaz ve toz diski."
+    },
+    "gezegen oluşumu": {
+      "tanım": "Protoplanet diskindeki toz ve kaya parçalarının birikerek daha büyük gök cisimleri oluşturması süreci."
+    },
+    "çarpışma krateri": {
+      "tanım": "Bir asteroid, meteoroid veya başka cismin yüzeye çarpması sonucu oluşan çukur yapı."
+    },
+    "kozmik toz": {
+      "tanım": "Uzayda bulunan çok küçük katı madde parçacıklarının genel adı."
+    },
+    "geçiş yöntemi": {
+      "tanım": "Bir ötegezegen yıldızının önünden geçerken yıldız ışığında oluşan küçük parlaklık azalmasını ölçerek gezegen arama yöntemi.",
+      "kategori": "Ötegezegen araştırmaları",
+      "alternatif_isimler": [
+        "transit yöntemi",
+        "transit fotometrisi"
+      ]
+    },
+    "radyal hız yöntemi": {
+      "tanım": "Bir yıldızın, çevresindeki gezegenin kütleçekim etkisiyle gözlemciye göre ileri-geri hareketini tayf çizgilerindeki Doppler kayması üzerinden ölçen yöntem.",
+      "kategori": "Ötegezegen araştırmaları",
+      "alternatif_isimler": [
+        "Doppler yöntemi"
+      ]
+    },
+    "doğrudan görüntüleme": {
+      "tanım": "Bir ötegezegeni, yıldızının parlak ışığından mümkün olduğunca ayırarak teleskop görüntüsünde saptama yöntemi.",
+      "kategori": "Ötegezegen araştırmaları",
+      "alternatif_isimler": [
+        "direkt görüntüleme"
+      ]
+    },
+    "mikromercekleme yöntemi": {
+      "tanım": "Öndeki bir yıldızın kütleçekimsel mercek etkisinin arka plandaki yıldız ışığını büyütmesini kullanarak gezegen sistemlerini tespit etme yöntemi.",
+      "kategori": "Ötegezegen araştırmaları",
+      "alternatif_isimler": [
+        "kütleçekimsel mikromercekleme"
+      ]
+    },
+    "ışık eğrisi": {
+      "tanım": "Bir astronomik kaynağın gözlenen parlaklığının zamana göre değişimini gösteren grafik.",
+      "kategori": "Gözlemsel astronomi",
+      "alternatif_isimler": [
+        "ışık değişim eğrisi"
+      ]
+    },
+    "transit derinliği": {
+      "tanım": "Bir gezegen yıldızının önünden geçerken gözlenen yıldız parlaklığındaki göreli azalma miktarı.",
+      "kategori": "Ötegezegen araştırmaları",
+      "alternatif_isimler": []
+    },
+    "süper dünya": {
+      "tanım": "Kütlesi Dünya'dan büyük ancak buz devlerinden veya gaz devlerinden genellikle daha küçük olan ötegezegenleri tanımlamak için kullanılan sınıf.",
+      "kategori": "Ötegezegen araştırmaları",
+      "alternatif_isimler": [
+        "super earth"
+      ]
+    },
+    "mini neptün": {
+      "tanım": "Neptün'den daha küçük, kalın uçucu madde veya gaz zarfına sahip olabilen ötegezegen sınıfı.",
+      "kategori": "Ötegezegen araştırmaları",
+      "alternatif_isimler": [
+        "mini-neptün",
+        "mini neptune"
+      ]
+    },
+    "sıcak jüpiter": {
+      "tanım": "Yıldızına çok yakın yörüngede dolanan, genellikle Jüpiter'e benzer büyüklükte gaz devi ötegezegen.",
+      "kategori": "Ötegezegen araştırmaları",
+      "alternatif_isimler": [
+        "hot jupiter"
+      ]
+    },
+    "hidrostatik denge": {
+      "tanım": "Bir yıldız veya gezegenin içindeki basınç gradyanının kütleçekimini dengelediği yaklaşık fiziksel durum.",
+      "kategori": "Astrofizik",
+      "alternatif_isimler": []
+    },
+    "ışınım basıncı": {
+      "tanım": "Elektromanyetik ışınımın momentum taşıması nedeniyle maddeye uyguladığı basınç.",
+      "kategori": "Astrofizik",
+      "alternatif_isimler": [
+        "radyasyon basıncı"
+      ]
+    },
+    "eşdeğerlik ilkesi": {
+      "tanım": "Uygun yerel koşullarda kütleçekim etkileri ile ivmeli referans sistemlerinin etkilerinin birbirinden ayırt edilemeyebileceğini ifade eden ilke.",
+      "kategori": "Kuramsal fizik",
+      "alternatif_isimler": []
+    },
+    "eddington limiti": {
+      "tanım": "Küresel ve kararlı akresyon varsayımları altında, ışınım basıncının içe doğru kütleçekimle yarıştığı karakteristik parlaklık sınırı.",
+      "kategori": "Astrofizik",
+      "alternatif_isimler": [
+        "eddington parlaklığı"
+      ]
+    },
+    "metal bolluğu": {
+      "tanım": "Astronomide helyumdan daha ağır elementlerin bir yıldız veya gaz bulutu içindeki göreli miktarını anlatan ifade.",
+      "kategori": "Yıldız astrofiziği",
+      "alternatif_isimler": [
+        "metallik",
+        "metalite"
+      ]
+    },
+    "astrosismoloji": {
+      "tanım": "Yıldızların iç yapısını, doğal salınımlarını ve titreşim frekanslarını inceleyerek araştıran bilim alanı.",
+      "kategori": "Yıldız astrofiziği",
+      "alternatif_isimler": [
+        "yıldız sismolojisi"
+      ]
+    },
+    "ışınım akısı": {
+      "tanım": "Bir yüzeyin birim alanından birim zamanda geçen veya yayılan elektromanyetik enerji miktarı.",
+      "kategori": "Astrofizik",
+      "alternatif_isimler": [
+        "akı"
+      ]
+    },
+    "görünür kadir": {
+      "tanım": "Bir gök cisminin Dünya'dan gözlenen parlaklığını logaritmik ölçekte ifade eden astronomik büyüklük.",
+      "kategori": "Gözlemsel astronomi",
+      "alternatif_isimler": [
+        "görünür büyüklük"
+      ]
+    },
+    "mutlak kadir": {
+      "tanım": "Bir gök cisminin standart olarak 10 parsek uzaklıkta olsaydı sahip olacağı görünür kadir değeri.",
+      "kategori": "Gözlemsel astronomi",
+      "alternatif_isimler": [
+        "mutlak büyüklük"
+      ]
+    },
+    "bortle ölçeği": {
+      "tanım": "Gece gökyüzünün ışık kirliliği ve gözlem koşullarına göre sınıflandırılmasında kullanılan dokuz seviyeli ölçek.",
+      "kategori": "Gözlemsel astronomi",
+      "alternatif_isimler": [
+        "bortle karanlık gökyüzü ölçeği"
+      ]
+    },
+    "gezegenimsi bulutsu": {
+      "tanım": "Güneş benzeri bir yıldızın evriminin ileri aşamasında dış katmanlarını uzaya bırakmasıyla oluşan, genişleyen gaz kabuğu.",
+      "kategori": "Yıldız evrimi",
+      "alternatif_isimler": [
+        "planetary nebula"
+      ]
+    },
+    "tip ia süpernova": {
+      "tanım": "Genellikle bir beyaz cücenin bulunduğu ikili sistemde termonükleer patlamayla parçalanması sonucu oluşan süpernova türü.",
+      "kategori": "Yıldız evrimi",
+      "alternatif_isimler": [
+        "tip 1a süpernova",
+        "type ia supernova"
+      ]
+    },
+    "kerr kara deliği": {
+      "tanım": "Dönen, yüksüz bir kara deliği tanımlayan genel görelilik çözümü.",
+      "kategori": "Kara delik fiziği",
+      "alternatif_isimler": [
+        "kerr black hole"
+      ]
+    },
+    "schwarzschild kara deliği": {
+      "tanım": "Dönmeyen ve yüksüz ideal kara deliği tanımlamak için kullanılan kuramsal model.",
+      "kategori": "Kara delik fiziği",
+      "alternatif_isimler": [
+        "schwarzschild black hole"
+      ]
+    },
+    "kütleçekimsel kırmızıya kayma": {
+      "tanım": "Işığın güçlü bir kütleçekim alanından uzaklaşırken enerji kaybedip daha uzun dalga boylarında gözlenmesi.",
+      "kategori": "Genel görelilik",
+      "alternatif_isimler": [
+        "gravitational redshift"
+      ]
+    },
+    "yörünge rezonansı": {
+      "tanım": "İki veya daha fazla yörüngedeki cismin dolanma periyotları arasında basit tam sayı oranları bulunması durumu.",
+      "kategori": "Gök mekaniği",
+      "alternatif_isimler": [
+        "orbital resonance"
+      ]
+    },
+    "kütleçekimsel bağlanma enerjisi": {
+      "tanım": "Bir sistemi bileşenlerine ayırmak için gereken veya sistem oluşurken açığa çıkan kütleçekimsel enerji miktarı.",
+      "kategori": "Astrofizik",
+      "alternatif_isimler": [
+        "gravitational binding energy"
+      ]
+    },
+    "ışınım tayfı": {
+      "tanım": "Bir kaynağın elektromanyetik ışınımının dalga boyu veya frekansa göre dağılımı.",
+      "kategori": "Gözlemsel astronomi",
+      "alternatif_isimler": [
+        "emisyon spektrumu"
+      ]
+    },
+    "soğurma tayfı": {
+      "tanım": "Bir kaynağın sürekli tayfı üzerinde, aradaki gazın belirli dalga boylarını soğurmasıyla oluşan koyu çizgiler içeren tayf.",
+      "kategori": "Gözlemsel astronomi",
+      "alternatif_isimler": [
+        "absorpsiyon spektrumu"
+      ]
+    },
+    "tayfsal sınıflandırma": {
+      "tanım": "Yıldızları tayflarına ve başta yüzey sıcaklıkları olmak üzere fiziksel özelliklerine göre sınıflandırma yöntemi.",
+      "kategori": "Yıldız astrofiziği",
+      "alternatif_isimler": [
+        "spektral sınıflandırma"
+      ]
+    },
+    "ana kol": {
+      "tanım": "Yıldızların çekirdeklerinde hidrojen füzyonu gerçekleştirdiği Hertzsprung-Russell diyagramındaki temel evrim bölgesi.",
+      "kategori": "Yıldız evrimi",
+      "alternatif_isimler": [
+        "main sequence"
+      ]
+    },
+    "hertzsprung russell diyagramı": {
+      "tanım": "Yıldızların parlaklıkları ile yüzey sıcaklıkları veya tayfsal türleri arasındaki ilişkiyi gösteren astronomik diyagram.",
+      "kategori": "Yıldız astrofiziği",
+      "alternatif_isimler": [
+        "hr diyagramı",
+        "h r diyagramı"
+      ]
+    },
+    "gezegen geçişi": {
+      "tanım": "Bir gezegenin gözlemci ile yıldız arasından geçerek yıldızın görünür diskinin bir bölümünü örtmesi olayı.",
+      "kategori": "Ötegezegen araştırmaları",
+      "alternatif_isimler": [
+        "planet transit"
+      ]
+    },
+    "gezegen jeolojisi": {
+      "tanım": "Gezegenlerin, uyduların ve küçük gök cisimlerinin yüzeylerini, iç yapılarını ve jeolojik süreçlerini inceleyen bilim alanı.",
+      "kategori": "Gezegen bilimi",
+      "alternatif_isimler": [
+        "karşılaştırmalı gezegen bilimi"
+      ]
+    },
+    "yıldız oluşum bölgesi": {
+      "tanım": "Yoğun gaz ve toz bulutlarının kütleçekimsel çöküşle yeni yıldızlar oluşturabildiği uzay bölgesi.",
+      "kategori": "Yıldız evrimi",
+      "alternatif_isimler": [
+        "star forming region"
+      ]
+    },
+    "kriyovolkanizma": {
+      "tanım": "Buzlu gök cisimlerinde su, amonyak veya metan gibi uçucu maddelerin yüzeye veya uzaya püskürmesiyle gerçekleşen volkan benzeri süreç.",
+      "kategori": "Gezegen bilimi",
+      "alternatif_isimler": [
+        "buz volkanizması",
+        "cryovolcanism",
+        "kriosvolkanizma"
+      ]
+    },
+    "güneş sistemi": {
+      "tanım": "Güneş'in kütleçekim etkisi altında bağlı bulunan gezegenler, cüce gezegenler, doğal uydular, küçük cisimler, toz ve gazdan oluşan gezegen sistemidir.",
+      "kategori": "Güneş Sistemi",
+      "alternatif_isimler": [
+        "solar system"
+      ]
+    },
+    "gezegen sistemi": {
+      "tanım": "Bir yıldızın veya yıldız sisteminin çevresinde kütleçekimsel olarak bağlı bulunan gezegenler ve diğer gök cisimlerinin bütünüdür.",
+      "kategori": "Gezegen bilimi",
+      "alternatif_isimler": [
+        "planetary system"
+      ]
+    },
+    "ışık kirliliği": {
+      "tanım": "Yapay ışığın gece gökyüzünü aydınlatarak yıldızların ve sönük gök cisimlerinin gözlemlenmesini zorlaştırmasıdır.",
+      "kategori": "Gözlemsel astronomi",
+      "alternatif_isimler": [
+        "light pollution"
+      ]
+    },
+    "seeing": {
+      "tanım": "Dünya atmosferindeki türbülans nedeniyle yıldız görüntülerinin titremesi veya bulanıklaşmasıyla tanımlanan astronomik gözlem koşulu.",
+      "kategori": "Gözlemsel astronomi",
+      "alternatif_isimler": [
+        "atmosferik görüş",
+        "astronomik seeing"
+      ]
+    }
+  },
+  "_meta": {
+    "veritabani_adi": "ATLAS AI Astronomi ve Uzay Bilgi Veritabanı",
+    "surum": "2.0.0",
+    "dil": "tr-TR",
+    "guncelleme_tarihi": "2026-11-17",
+    "aciklama": "ATLAS AI terminal uygulaması için hazırlanmış eğitim amaçlı yerel astronomi veritabanı. Sayısal değerler yaklaşık/ortalama değerler olabilir; dinamik astronomi katalogları düzenli aralıklarla güncellenmelidir.",
+    "veri_kullanim_notu": "Uydu ve ötegezegen sayıları yeni keşifler ve resmi doğrulamalarla değişebilir. Her kayıtta bulunan kaynak ve veri tarihi notlarını dikkate alın.",
+    "kaynaklar": [
+      {
+        "kurum": "NASA",
+        "baslik": "Planet Compare",
+        "url": "https://solarsystem.nasa.gov/planet-compare/",
+        "kullanim": "Güneş Sistemi gezegenlerinin ortalama yörünge uzaklığı, yarıçapı, kütlesi ve yoğunluğu."
+      },
+      {
+        "kurum": "NASA",
+        "baslik": "Jupiter Moons",
+        "url": "https://science.nasa.gov/jupiter/jupiter-moons/",
+        "kullanim": "Jüpiter'in resmi olarak tanınan doğal uydu sayısı ve Galilei uyduları."
+      },
+      {
+        "kurum": "NASA",
+        "baslik": "Saturn Moons",
+        "url": "https://science.nasa.gov/saturn/moons/",
+        "kullanim": "Satürn'ün doğrulanmış doğal uydu sayısı."
+      },
+      {
+        "kurum": "NASA",
+        "baslik": "Uranus Moons",
+        "url": "https://science.nasa.gov/uranus/moons/",
+        "kullanim": "Uranüs'ün resmi olarak tanınan doğal uydu sayısı."
+      },
+      {
+        "kurum": "NASA",
+        "baslik": "Neptune Moons",
+        "url": "https://science.nasa.gov/neptune/moons/",
+        "kullanim": "Neptün'ün resmi olarak tanınan doğal uydu sayısı."
+      },
+      {
+        "kurum": "NASA Exoplanet Archive",
+        "baslik": "Exoplanet and Candidate Statistics",
+        "url": "https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html",
+        "kullanim": "Doğrulanmış ötegezegen sayısına ilişkin tarihli istatistik."
+      },
+      {
+        "kurum": "NASA Science",
+        "baslik": "Solar System Facts",
+        "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+        "kullanim": "Güneş Sistemi ve gök cisimlerine ilişkin genel bilgiler."
+      },
+      {
+        "kurum": "NASA Exoplanet Archive",
+        "baslik": "Kepler-186 System Overview",
+        "url": "https://exoplanetarchive.ipac.caltech.edu/overview/Kepler-186",
+        "kullanim": "Kepler-186 sisteminin uzaklığı, Kepler-186f yörünge parametreleri ve arşiv statüsü."
+      },
+      {
+        "kurum": "NASA Exoplanet Archive",
+        "baslik": "TRAPPIST-1e Overview",
+        "url": "https://exoplanetarchive.ipac.caltech.edu/overview/TRAPPIST-1e",
+        "kullanim": "TRAPPIST-1e yörünge dönemi, yıldızına uzaklığı, yarıçapı ve kütlesi."
+      }
+    ],
+    "istatistik_notlari": {
+      "gezegen_uydu_sayilari": "Jüpiter: 115 (NASA sayfasına erişim 2026-11-17); Satürn: 293 (Ağustos 2026); Uranüs: 29 (Ağustos 2026); Neptün: 16 (NASA sayfasına erişim 2026-11-17).",
+      "otegezegen_sayisi": "NASA Exoplanet Archive 2026-11-12 tarihinde 6470 doğrulanmış ötegezegen kaydı gösteriyordu. Bu değer dinamik olduğundan sabit evrensel sayı olarak kullanılmamalıdır.",
+      "gunes_uzakliklari": "Ortalama uzaklıklar NASA Planet Compare verilerinden alınmıştır; gezegenler eliptik yörüngelerde hareket ettiği için anlık uzaklık farklıdır.",
+      "kepler_186f": "NASA Exoplanet Archive Kepler-186 sistemini yaklaşık 177.594 pc uzaklıkta listeler. Kepler-186f sayfasında durum 'Confirmed Controversial' olarak gösterilir; bu nedenle açıklamada bu uyarı korunmuştur."
+    }
+  },
+  "cucce_gezegenler": {
+    "pluton": {
+      "isim": "Plüton",
+      "kategori": "Cüce gezegen",
+      "tur": "Buzlu cüce gezegen",
+      "uydu_sayisi": 5,
+      "gunes_uzakligi_km": "yaklaşık 5,9 milyar",
+      "ortalama_gunes_uzakligi_km": 5906376272,
+      "ortalama_gunes_uzakligi_au": 39.48,
+      "alternatif_isimler": [
+        "Pluto"
+      ],
+      "aciklama": "Plüton, Kuiper Kuşağı'nda bulunan ve 2006 yılında cüce gezegen olarak yeniden sınıflandırılan bir gök cismidir. En büyük uydusu Charon ile ortak kütle merkezi Plüton'un dışında kalır.",
+      "kaynak": "https://science.nasa.gov/dwarf-planets/pluto/"
+    },
+    "ceres": {
+      "isim": "Ceres",
+      "kategori": "Cüce gezegen",
+      "tur": "Kayalık cüce gezegen",
+      "uydu_sayisi": 0,
+      "gunes_uzakligi_km": "yaklaşık 413,7 milyon",
+      "ortalama_gunes_uzakligi_km": 413700000,
+      "ortalama_gunes_uzakligi_au": 2.77,
+      "alternatif_isimler": [],
+      "aciklama": "Ceres, Mars ile Jüpiter arasındaki asteroit kuşağında bulunan en büyük cisimdir ve cüce gezegen olarak sınıflandırılır.",
+      "kaynak": "https://science.nasa.gov/dwarf-planets/ceres/"
+    },
+    "eris": {
+      "isim": "Eris",
+      "kategori": "Cüce gezegen",
+      "tur": "Buzlu cüce gezegen",
+      "uydu_sayisi": 1,
+      "gunes_uzakligi_km": "yaklaşık 10,1 milyar",
+      "ortalama_gunes_uzakligi_km": 10125000000,
+      "ortalama_gunes_uzakligi_au": 67.7,
+      "alternatif_isimler": [
+        "2003 UB313"
+      ],
+      "aciklama": "Eris, Neptün ötesinde bulunan büyük bir cüce gezegendir. Dysnomia adlı bir doğal uydusu vardır.",
+      "kaynak": "https://science.nasa.gov/dwarf-planets/eris/"
+    },
+    "haumea": {
+      "isim": "Haumea",
+      "kategori": "Cüce gezegen",
+      "tur": "Hızlı dönen buzlu cüce gezegen",
+      "uydu_sayisi": 2,
+      "gunes_uzakligi_km": "yaklaşık 6,5 milyar",
+      "ortalama_gunes_uzakligi_km": 6450000000,
+      "ortalama_gunes_uzakligi_au": 43.1,
+      "alternatif_isimler": [
+        "2003 EL61"
+      ],
+      "aciklama": "Haumea, Kuiper Kuşağı'nda yer alan, hızlı dönmesi nedeniyle uzamış şekle sahip bir cüce gezegendir. Hiʻiaka ve Namaka adlı iki uydusu bulunur.",
+      "kaynak": "https://science.nasa.gov/dwarf-planets/haumea/"
+    },
+    "makemake": {
+      "isim": "Makemake",
+      "kategori": "Cüce gezegen",
+      "tur": "Buzlu cüce gezegen",
+      "uydu_sayisi": 1,
+      "gunes_uzakligi_km": "yaklaşık 6,9 milyar",
+      "ortalama_gunes_uzakligi_km": 6850000000,
+      "ortalama_gunes_uzakligi_au": 45.8,
+      "alternatif_isimler": [
+        "2005 FY9"
+      ],
+      "aciklama": "Makemake, Kuiper Kuşağı'nda bulunan ve yüzeyinde metan ile etan buzları gözlenen bir cüce gezegendir. MK2 adlı küçük bir uydusu vardır.",
+      "kaynak": "https://science.nasa.gov/dwarf-planets/makemake/"
+    }
+  },
+  "yildizlar": {
+    "gunes": {
+      "isim": "Güneş",
+      "kategori": "Yıldız",
+      "tur": "G tipi ana kol yıldızı (G2V)",
+      "alternatif_isimler": [
+        "Sol",
+        "Sun"
+      ],
+      "aciklama": "Güneş, Güneş Sistemi'nin merkezindeki yıldızdır. Çekirdeğinde hidrojenin helyuma dönüşmesiyle enerji üretir.",
+      "ozellikler": [
+        "Yaşı yaklaşık 4,6 milyar yıldır.",
+        "Güneş Sistemi kütlesinin çok büyük bölümü Güneş'te toplanmıştır.",
+        "Dünya'ya ortalama uzaklığı yaklaşık 1 astronomik birimdir."
+      ],
+      "kaynak": "https://science.nasa.gov/sun/"
+    },
+    "proxima_centauri": {
+      "isim": "Proxima Centauri",
+      "kategori": "Yıldız",
+      "tur": "Kırmızı cüce",
+      "uzaklik_dunya_isik_yili": 4.24,
+      "alternatif_isimler": [
+        "Proxima"
+      ],
+      "aciklama": "Proxima Centauri, Güneş'e en yakın bilinen yıldızdır ve Alpha Centauri yıldız sisteminin bir üyesidir. Proxima Centauri b adlı bir ötegezegene ev sahipliği yapar.",
+      "kaynak": "https://science.nasa.gov/universe/exoplanets/proxima-centauri-b/"
+    },
+    "trappist_1": {
+      "isim": "TRAPPIST-1",
+      "kategori": "Yıldız",
+      "tur": "Ultra soğuk kırmızı cüce",
+      "alternatif_isimler": [
+        "TRAPPIST 1"
+      ],
+      "aciklama": "TRAPPIST-1, çevresinde yedi Dünya boyutuna yakın gezegen bulunan küçük ve soğuk bir yıldızdır.",
+      "kaynak": "https://science.nasa.gov/exoplanets/"
+    },
+    "51_pegasi": {
+      "isim": "51 Pegasi",
+      "kategori": "Yıldız",
+      "tur": "Güneş benzeri yıldız",
+      "alternatif_isimler": [
+        "51 Peg"
+      ],
+      "aciklama": "51 Pegasi, 51 Pegasi b adlı sıcak Jüpiter türü ötegezegene ev sahipliği yapan yıldızdır.",
+      "kaynak": "https://exoplanetarchive.ipac.caltech.edu/"
+    },
+    "kepler_186": {
+      "isim": "Kepler-186",
+      "kategori": "Yıldız",
+      "tur": "M tipi kırmızı cüce",
+      "alternatif_isimler": [
+        "Kepler 186"
+      ],
+      "aciklama": "Kepler-186, Kepler-186f dahil birden fazla gezegene ev sahipliği yapan kırmızı cüce yıldızdır.",
+      "kaynak": "https://exoplanetarchive.ipac.caltech.edu/"
+    },
+    "hd_209458": {
+      "isim": "HD 209458",
+      "kategori": "Yıldız",
+      "tur": "Güneş benzeri yıldız",
+      "alternatif_isimler": [],
+      "aciklama": "HD 209458, atmosferi geçiş yöntemiyle ayrıntılı incelenmiş HD 209458 b ötegezegenine ev sahipliği yapar.",
+      "kaynak": "https://exoplanetarchive.ipac.caltech.edu/"
+    }
+  },
+  "dogal_uydular": {
+    "ay": {
+      "isim": "Ay",
+      "kategori": "Doğal uydu",
+      "tur": "Kayalık doğal uydu",
+      "yoresindeki_cisim": "Dünya",
+      "cap_km": 3474.8,
+      "alternatif_isimler": [
+        "Luna",
+        "Moon"
+      ],
+      "aciklama": "Ay, Dünya'nın tek doğal uydusudur. Gelgitler üzerinde önemli etkisi vardır ve kendi ekseni etrafındaki dönüş süresi Dünya çevresindeki dolanma süresine yaklaşık eşittir.",
+      "kaynak": "https://science.nasa.gov/moon/"
+    },
+    "phobos": {
+      "isim": "Phobos",
+      "kategori": "Doğal uydu",
+      "tur": "Düzensiz şekilli kayalık uydu",
+      "yoresindeki_cisim": "Mars",
+      "cap_km": 22.4,
+      "alternatif_isimler": [],
+      "aciklama": "Phobos, Mars'ın iki küçük doğal uydusundan daha büyük ve gezegene daha yakın olanıdır.",
+      "kaynak": "https://science.nasa.gov/mars/moons/"
+    },
+    "deimos": {
+      "isim": "Deimos",
+      "kategori": "Doğal uydu",
+      "tur": "Düzensiz şekilli kayalık uydu",
+      "yoresindeki_cisim": "Mars",
+      "cap_km": 12.4,
+      "alternatif_isimler": [],
+      "aciklama": "Deimos, Mars'ın iki doğal uydusundan daha küçük ve daha uzakta dolananıdır.",
+      "kaynak": "https://science.nasa.gov/mars/moons/"
+    },
+    "io": {
+      "isim": "Io",
+      "kategori": "Doğal uydu",
+      "tur": "Volkanik etkin uydu",
+      "yoresindeki_cisim": "Jüpiter",
+      "cap_km": 3643,
+      "alternatif_isimler": [],
+      "aciklama": "Io, Güneş Sistemi'nde volkanik etkinliği en yüksek gök cisimlerinden biridir.",
+      "kaynak": "https://science.nasa.gov/jupiter/jupiter-moons/"
+    },
+    "europa": {
+      "isim": "Europa",
+      "kategori": "Doğal uydu",
+      "tur": "Buzlu uydu",
+      "yoresindeki_cisim": "Jüpiter",
+      "cap_km": 3122,
+      "alternatif_isimler": [
+        "Jupiter Europa"
+      ],
+      "aciklama": "Europa'nın buzlu kabuğunun altında küresel bir tuzlu su okyanusu bulunabileceğine ilişkin güçlü bilimsel kanıtlar vardır.",
+      "kaynak": "https://science.nasa.gov/jupiter/jupiter-moons/"
+    },
+    "ganymede": {
+      "isim": "Ganymede",
+      "kategori": "Doğal uydu",
+      "tur": "Buz ve kaya yapılı uydu",
+      "yoresindeki_cisim": "Jüpiter",
+      "cap_km": 5268,
+      "alternatif_isimler": [],
+      "aciklama": "Ganymede, Güneş Sistemi'ndeki en büyük doğal uydudur ve Merkür gezegeninden daha büyüktür.",
+      "kaynak": "https://science.nasa.gov/jupiter/jupiter-moons/"
+    },
+    "callisto": {
+      "isim": "Callisto",
+      "kategori": "Doğal uydu",
+      "tur": "Kraterlerle kaplı buzlu uydu",
+      "yoresindeki_cisim": "Jüpiter",
+      "cap_km": 4821,
+      "alternatif_isimler": [],
+      "aciklama": "Callisto, Jüpiter'in dört büyük Galilei uydusundan biridir ve eski çarpışma izleriyle dolu yüzeyiyle tanınır.",
+      "kaynak": "https://science.nasa.gov/jupiter/jupiter-moons/"
+    },
+    "titan": {
+      "isim": "Titan",
+      "kategori": "Doğal uydu",
+      "tur": "Yoğun atmosferli buzlu uydu",
+      "yoresindeki_cisim": "Satürn",
+      "cap_km": 5150,
+      "alternatif_isimler": [],
+      "aciklama": "Titan, Satürn'ün en büyük uydusudur. Yoğun azot ağırlıklı atmosferi ve yüzeyindeki sıvı hidrokarbon gölleriyle dikkat çeker.",
+      "kaynak": "https://science.nasa.gov/saturn/moons/"
+    },
+    "enceladus": {
+      "isim": "Enceladus",
+      "kategori": "Doğal uydu",
+      "tur": "Buzlu ve jeolojik olarak etkin uydu",
+      "yoresindeki_cisim": "Satürn",
+      "cap_km": 504,
+      "alternatif_isimler": [],
+      "aciklama": "Enceladus, güney kutup bölgesinden uzaya su buharı ve buz parçacıkları püskürten gayzerleriyle bilinir. Buz kabuğunun altında okyanus bulunur.",
+      "kaynak": "https://science.nasa.gov/saturn/moons/"
+    },
+    "triton": {
+      "isim": "Triton",
+      "kategori": "Doğal uydu",
+      "tur": "Buzlu doğal uydu",
+      "yoresindeki_cisim": "Neptün",
+      "cap_km": 2707,
+      "alternatif_isimler": [],
+      "aciklama": "Triton, Neptün'ün en büyük uydusudur ve gezegenin dönme yönüne ters yönde dolanır.",
+      "kaynak": "https://science.nasa.gov/neptune/moons/"
+    }
+  },
+  "uzay_misyonlari": {
+    "apollo_11": {
+      "isim": "Apollo 11",
+      "kategori": "İnsanlı Ay görevi",
+      "hedef": "Ay",
+      "fırlatma_yılı": 1969,
+      "alternatif_isimler": [
+        "Apollo XI"
+      ],
+      "aciklama": "Apollo 11, insanları ilk kez Ay yüzeyine ulaştıran görevdir. Neil Armstrong ve Buzz Aldrin Ay'da yürümüş, Michael Collins komuta modülünde Ay yörüngesinde kalmıştır.",
+      "kaynak": "https://www.nasa.gov/mission/apollo-11/"
+    },
+    "voyager_1": {
+      "isim": "Voyager 1",
+      "kategori": "Gezegenler arası ve yıldızlararası uzay sondası",
+      "hedef": "Jüpiter, Satürn ve yıldızlararası uzay",
+      "fırlatma_yılı": 1977,
+      "alternatif_isimler": [
+        "Voyager One"
+      ],
+      "aciklama": "Voyager 1, Jüpiter ve Satürn yakın geçişlerinden sonra Güneş'in heliosferinin dışına çıkarak yıldızlararası uzaya ulaşan ilk insan yapımı araç olmuştur.",
+      "kaynak": "https://science.nasa.gov/mission/voyager/"
+    },
+    "voyager_2": {
+      "isim": "Voyager 2",
+      "kategori": "Gezegenler arası uzay sondası",
+      "hedef": "Jüpiter, Satürn, Uranüs ve Neptün",
+      "fırlatma_yılı": 1977,
+      "alternatif_isimler": [
+        "Voyager Two"
+      ],
+      "aciklama": "Voyager 2, dört dev gezegenin yakınından geçen tek uzay aracıdır. Uranüs ve Neptün hakkında yakın çekim verileri sağlayan ilk ve hâlen tek görevdir.",
+      "kaynak": "https://science.nasa.gov/mission/voyager/"
+    },
+    "hubble": {
+      "isim": "Hubble Uzay Teleskobu",
+      "kategori": "Uzay teleskobu",
+      "hedef": "Evrenin farklı bölgelerinde astronomik gözlemler",
+      "fırlatma_yılı": 1990,
+      "alternatif_isimler": [
+        "Hubble",
+        "HST"
+      ],
+      "aciklama": "Hubble, görünür, morötesi ve yakın kızılötesi dalga boylarında gözlem yaparak yıldızların, galaksilerin ve evrenin gelişiminin incelenmesine katkı sağlamıştır.",
+      "kaynak": "https://science.nasa.gov/mission/hubble/"
+    },
+    "james_webb": {
+      "isim": "James Webb Uzay Teleskobu",
+      "kategori": "Kızılötesi uzay teleskobu",
+      "hedef": "İlk galaksiler, yıldız oluşumu ve ötegezegen atmosferleri",
+      "fırlatma_yılı": 2021,
+      "alternatif_isimler": [
+        "JWST",
+        "Webb",
+        "James Webb"
+      ],
+      "aciklama": "James Webb Uzay Teleskobu, ağırlıklı olarak kızılötesi bölgede gözlem yapar. Erken evren, yıldız oluşum bölgeleri ve ötegezegen atmosferleri üzerine araştırmalar yürütür.",
+      "kaynak": "https://science.nasa.gov/mission/webb/"
+    },
+    "cassini_huygens": {
+      "isim": "Cassini-Huygens",
+      "kategori": "Satürn keşif görevi",
+      "hedef": "Satürn, halkaları ve uyduları",
+      "fırlatma_yılı": 1997,
+      "alternatif_isimler": [
+        "Cassini",
+        "Huygens"
+      ],
+      "aciklama": "Cassini, Satürn sistemini uzun yıllar boyunca incelemiştir. Huygens iniş aracı Titan yüzeyine inerek başka bir gezegenin uydusuna yapılan ilk başarılı inişi gerçekleştirmiştir.",
+      "kaynak": "https://science.nasa.gov/mission/cassini/"
+    },
+    "juno": {
+      "isim": "Juno",
+      "kategori": "Jüpiter yörünge görevi",
+      "hedef": "Jüpiter",
+      "fırlatma_yılı": 2011,
+      "alternatif_isimler": [
+        "Juno uzay aracı"
+      ],
+      "aciklama": "Juno, Jüpiter'in atmosferini, manyetik alanını, iç yapısını ve kutup bölgelerini incelemek üzere gönderilen NASA uzay aracıdır.",
+      "kaynak": "https://science.nasa.gov/mission/juno/"
+    },
+    "new_horizons": {
+      "isim": "New Horizons",
+      "kategori": "Derin uzay keşif görevi",
+      "hedef": "Plüton ve Kuiper Kuşağı",
+      "fırlatma_yılı": 2006,
+      "alternatif_isimler": [
+        "Yeni Ufuklar"
+      ],
+      "aciklama": "New Horizons, 2015 yılında Plüton sisteminin ilk yakın çekim incelemesini gerçekleştirmiş, daha sonra Kuiper Kuşağı cismi Arrokoth'u ziyaret etmiştir.",
+      "kaynak": "https://science.nasa.gov/mission/new-horizons/"
+    },
+    "curiosity": {
+      "isim": "Curiosity",
+      "kategori": "Mars gezgini",
+      "hedef": "Mars",
+      "fırlatma_yılı": 2011,
+      "alternatif_isimler": [
+        "Mars Science Laboratory",
+        "MSL"
+      ],
+      "aciklama": "Curiosity, Mars'ın Gale Krateri'nde geçmiş çevresel koşulları ve gezegenin yaşanabilirlik potansiyelini araştırmak üzere tasarlanmış robotik gezgindir.",
+      "kaynak": "https://science.nasa.gov/mission/msl-curiosity/"
+    },
+    "perseverance": {
+      "isim": "Perseverance",
+      "kategori": "Mars gezgini",
+      "hedef": "Mars",
+      "fırlatma_yılı": 2020,
+      "alternatif_isimler": [
+        "Mars 2020 rover"
+      ],
+      "aciklama": "Perseverance, Jezero Krateri'nde geçmiş mikrobiyal yaşam izleri olabilecek ortamları araştırır ve gelecekte Dünya'ya getirilmesi planlanan örnekleri toplar.",
+      "kaynak": "https://science.nasa.gov/mission/mars-2020-perseverance/"
+    },
+    "osiris_rex": {
+      "isim": "OSIRIS-REx",
+      "kategori": "Asteroit örnek iade görevi",
+      "hedef": "Bennu asteroidi",
+      "fırlatma_yılı": 2016,
+      "alternatif_isimler": [
+        "OSIRIS Rex"
+      ],
+      "aciklama": "OSIRIS-REx, Bennu asteroidinden örnek toplamış ve örnek kapsülünü 2023 yılında Dünya'ya ulaştırmıştır.",
+      "kaynak": "https://science.nasa.gov/mission/osiris-rex/"
+    },
+    "dart": {
+      "isim": "DART",
+      "kategori": "Gezegen savunma teknoloji gösterimi",
+      "hedef": "Dimorphos asteroit uydusu",
+      "fırlatma_yılı": 2021,
+      "alternatif_isimler": [
+        "Double Asteroid Redirection Test"
+      ],
+      "aciklama": "DART, bir uzay aracının kontrollü çarpmasıyla küçük bir gök cisminin yörüngesinin değiştirilebileceğini gösteren NASA teknoloji gösterimi görevidir.",
+      "kaynak": "https://science.nasa.gov/mission/dart/"
+    }
+  },
+  "bilgi_kategorileri": {
+    "gunes_sistemi": [
+      "Uzay, Dünya atmosferinin ötesindeki bölgedir.",
+      "Dünya, Güneş Sistemi'nde yaşam olduğu bilinen tek gezegendir.",
+      "Güneş, Güneş Sistemi'nin merkezindeki yıldızdır.",
+      "Güneş Sistemi'nde sekiz gezegen bulunur.",
+      "Gezegenler Güneş'in etrafında dolanır.",
+      "Dünya, Güneş'in etrafındaki bir turunu yaklaşık 365,25 günde tamamlar.",
+      "Ay, Dünya'nın doğal uydusudur.",
+      "Güneş Sistemi'nin en büyük gezegeni Jüpiter'dir.",
+      "Güneş Sistemi'nin en küçük gezegeni Merkür'dür.",
+      "Güneş'e en yakın gezegen Merkür'dür.",
+      "Güneş'e en uzak gezegen Neptün'dür.",
+      "Merkür'ün bilinen doğal uydusu yoktur.",
+      "Venüs'ün bilinen doğal uydusu yoktur.",
+      "Dünya'nın bir doğal uydusu vardır.",
+      "Mars'ın Phobos ve Deimos adlı iki doğal uydusu vardır.",
+      "Jüpiter'in çok sayıda doğal uydusu vardır.",
+      "Satürn'ün çok sayıda doğal uydusu vardır.",
+      "Uranüs'ün NASA tarafından Ağustos 2026 itibarıyla resmi olarak tanınan 29 doğal uydusu vardır.",
+      "Neptün'ün bilinen 16 doğal uydusu vardır.",
+      "Mars, yüzeyindeki demir minerallerinin oksitlenmesi nedeniyle kırmızımsı görünür.",
+      "Venüs, Güneş Sistemi'ndeki en sıcak gezegendir.",
+      "Venüs'ün atmosferi büyük ölçüde karbondioksitten oluşur.",
+      "Merkür, Güneş Sistemi'ndeki en küçük gezegendir.",
+      "Merkür'ün atmosferi Dünya'dakinden çok daha incedir.",
+      "Mars'ın atmosferi büyük ölçüde karbondioksitten oluşur.",
+      "Jüpiter bir gaz devidir.",
+      "Satürn bir gaz devidir.",
+      "Uranüs bir buz devidir.",
+      "Neptün bir buz devidir.",
+      "Uranüs'ün eksen eğikliği yaklaşık 98 derecedir.",
+      "Uranüs bu nedenle Güneş'in etrafında adeta yan yatmış şekilde dolanır.",
+      "Satürn belirgin halka sistemiyle tanınır.",
+      "Jüpiter'in Büyük Kırmızı Lekesi devasa bir atmosferik fırtınadır.",
+      "Jüpiter'in Büyük Kırmızı Lekesi Dünya'dan daha büyük bir fırtına sistemi olarak gözlemlenmiştir.",
+      "Neptün çok güçlü atmosferik rüzgarlara sahiptir.",
+      "Güneş Sistemi'ndeki gezegenlerin tamamı aynı düzleme yakın yörüngelerde hareket eder.",
+      "Plüton, 2006 yılında cüce gezegen olarak sınıflandırılmıştır.",
+      "Plüton, Kuiper Kuşağı'nda bulunur.",
+      "Asteroitler çoğunlukla kaya ve metalden oluşan küçük Güneş Sistemi cisimleridir.",
+      "Kuyruklu yıldızlar buz, kaya ve toz içeren küçük Güneş Sistemi cisimleridir.",
+      "Bir kuyruklu yıldız Güneş'e yaklaştığında koma adı verilen bulanık bir atmosfer oluşturabilir.",
+      "Kuyruklu yıldızların kuyrukları genellikle Güneş'ten uzağa doğru yönelir.",
+      "Meteoroid, uzayda bulunan küçük kaya veya metal parçalarıdır.",
+      "Bir meteoroid Dünya atmosferine girerken ışık oluşturursa buna meteor denir.",
+      "Atmosferden geçip yere ulaşan parçaya meteorit denir.",
+      "Güneş bir yıldızdır.",
+      "Güneş, Samanyolu Galaksisi'nde bulunan sıradan bir yıldız türü olan G tipi ana kol yıldızıdır.",
+      "Güneş'in yaşı yaklaşık 4,6 milyar yıldır.",
+      "Güneş'in çapı Dünya'nın çapının yaklaşık 109 katıdır.",
+      "Güneş'in kütlesi Güneş Sistemi'nin toplam kütlesinin yaklaşık yüzde 99,8'ini oluşturur.",
+      "Güneş'in enerjisi çekirdeğinde gerçekleşen nükleer füzyondan kaynaklanır.",
+      "Güneş'in çekirdeğinde hidrojen atom çekirdekleri helyuma dönüşür.",
+      "Güneş'in yüzey sıcaklığı yaklaşık 5.500 santigrat derecedir.",
+      "Güneş'in çekirdeği yüzeyinden çok daha sıcaktır.",
+      "Güneş ışığı Dünya'ya yaklaşık 8 dakika 20 saniyede ulaşır.",
+      "Güneş'te güneş lekeleri adı verilen daha soğuk bölgeler bulunabilir.",
+      "Güneş patlamaları yoğun elektromanyetik enerji açığa çıkarabilir.",
+      "Güneş rüzgarı Güneş'ten yayılan yüklü parçacık akışıdır.",
+      "Güneş rüzgarı Dünya'nın manyetosferini etkileyebilir.",
+      "Proxima Centauri, Güneş'e en yakın yıldızlardan biridir.",
+      "Güneş Sistemi Samanyolu Galaksisi'nin bir parçasıdır.",
+      "Sagittarius A* yaklaşık dört milyon Güneş kütlesine sahiptir.",
+      "Güneş Sistemi, Samanyolu'nun merkezinde bulunmaz.",
+      "Güneş Sistemi Samanyolu'nun Orion Kolu olarak da adlandırılan yerel sarmal kolunda bulunur.",
+      "Güneş'ten çıkan ışık Dünya'ya yaklaşık 8 dakika 20 saniyede ulaşır.",
+      "Bir astronomik birim, Dünya ile Güneş arasındaki ortalama uzaklığı ifade eder.",
+      "Ötegezegen, Güneş Sistemi dışında bulunan gezegendir.",
+      "İlk doğrulanmış ötegezegenlerin keşfi astronomide büyük bir dönüm noktası olmuştur.",
+      "51 Pegasi b, 1995 yılında keşfedilen önemli bir ötegezegendir.",
+      "51 Pegasi b bir sıcak Jüpiter türü gaz devidir.",
+      "Proxima Centauri b, Güneş Sistemi'ne en yakın bilinen ötegezegenlerden biridir.",
+      "TRAPPIST-1 sistemi yedi Dünya boyutuna yakın gezegen içerir.",
+      "TRAPPIST-1e, yaşam araştırmaları açısından ilgi çeken ötegezegenlerden biridir.",
+      "Kepler-186f, Dünya boyutlu önemli bir ötegezegendir.",
+      "Bazı ötegezegenler yıldızlarının yaşanabilir bölgelerinde bulunur.",
+      "Bir gezegenin yaşanabilir bölgede bulunması onun kesin olarak yaşam barındırdığı anlamına gelmez.",
+      "Voyager görevleri dış Güneş Sistemi hakkında önemli bilgiler sağlamıştır.",
+      "Mars'a çok sayıda robotik uzay aracı gönderilmiştir.",
+      "Mars gezginleri gezegenin yüzeyini incelemek için kullanılmıştır.",
+      "Mars'ın yüzey yerçekimi Dünya'nınkinden daha zayıftır.",
+      "Jüpiter'in yerçekimi Dünya'nınkinden çok daha güçlüdür.",
+      "Bir gezegenin yıldızının etrafındaki yörünge süresi, gezegenin yılıdır.",
+      "Dünya'nın Güneş etrafındaki yörünge süresi yaklaşık 365,25 gündür.",
+      "Mars'ın Güneş etrafındaki bir turu yaklaşık 687 Dünya günü sürer.",
+      "Jüpiter'in Güneş etrafındaki bir turu yaklaşık 11,86 Dünya yılı sürer.",
+      "Satürn'ün Güneş etrafındaki bir turu yaklaşık 29,5 Dünya yılı sürer.",
+      "Uranüs'ün Güneş etrafındaki bir turu yaklaşık 84 Dünya yılı sürer.",
+      "Neptün'ün Güneş etrafındaki bir turu yaklaşık 165 Dünya yılı sürer.",
+      "Merkür'ün Güneş etrafındaki bir turu yaklaşık 88 Dünya günü sürer.",
+      "Venüs'ün Güneş etrafındaki bir turu yaklaşık 225 Dünya günü sürer.",
+      "Dünya'nın manyetik alanı Güneş rüzgarına karşı önemli bir koruma sağlar.",
+      "Güneş'in kütleçekimi gezegenleri yörüngelerinde tutar.",
+      "NASA'nın erişilen Jupiter Moons sayfasına göre Jüpiter'in IAU tarafından resmi olarak tanınan 115 doğal uydusu vardır (erişim: 17 Kasım 2026).",
+      "NASA, Satürn'ün Ağustos 2026 itibarıyla 293 doğrulanmış doğal uydusu olduğunu belirtmektedir.",
+      "NASA, Uranüs'ün Ağustos 2026 itibarıyla 29 resmi olarak tanınan doğal uydusu olduğunu belirtmektedir.",
+      "Neptün'ün NASA tarafından listelenen resmi olarak tanınmış 16 doğal uydusu vardır.",
+      "Ganymede, Güneş Sistemi'ndeki en büyük doğal uydudur.",
+      "Io, Güneş Sistemi'nde volkanik etkinliği en yüksek gök cisimlerinden biridir.",
+      "Titan, Satürn'ün yoğun atmosfere sahip en büyük uydusudur.",
+      "Triton, Neptün çevresinde retrograd yönde dolanır.",
+      "Plüton'un beş doğal uydusu vardır; en büyüğü Charon'dur.",
+      "Ceres, asteroit kuşağında bulunan bir cüce gezegendir.",
+      "Eris'in bilinen doğal uydusu Dysnomia'dır.",
+      "Haumea'nın bilinen iki doğal uydusu Hiʻiaka ve Namaka'dır.",
+      "Makemake'nin bilinen küçük uydusu MK2 olarak adlandırılır.",
+      "Ötegezegen, Güneş dışında bir yıldızın veya yıldız kalıntısının çevresinde dolanan gezegendir.",
+      "Ötegezegenlerin keşfinde transit ve radyal hız yöntemleri sık kullanılır.",
+      "Transit yönteminde, bir gezegen yıldızının önünden geçerken yıldızın gözlenen parlaklığı çok az azalır.",
+      "Radyal hız yöntemi, yıldızın gezegenin kütleçekim etkisiyle yaptığı küçük hareketleri tayf çizgilerindeki Doppler kaymasıyla ölçer.",
+      "Doğrudan görüntüleme yöntemi, yıldız ışığından ayrıştırılabilen genç, büyük veya yıldızından uzakta bulunan bazı ötegezegenleri görüntülemeyi hedefler.",
+      "NASA Exoplanet Archive, 12 Kasım 2026 tarihinde 6.470 doğrulanmış ötegezegen kaydı bildiriyordu; bu sayı zamanla değişebilir.",
+      "Voyager 2, Uranüs ve Neptün'ün yakınından geçen tek uzay aracıdır.",
+      "DART görevi, Dimorphos asteroid uydusunun yörüngesini değiştirerek kinetik çarpma yöntemini test etmiştir.",
+      "Bir ötegezegenin yaşanabilir bölgede bulunması, yüzeyinde kesinlikle yaşam olduğu anlamına gelmez.",
+      "Bir gezegenin kütlesi ile yarıçapı birlikte kullanılarak ortalama yoğunluğu hesaplanabilir.",
+      "NASA Exoplanet Archive, 12 Kasım 2026 tarihinde 6.470 doğrulanmış gezegen kaydı gösteriyordu; adaylar bu sayıya dahil değildir."
+    ],
+    "yildizlar": [
+      "Güneş, Güneş Sistemi'nin merkezindeki yıldızdır.",
+      "Kuyruklu yıldızlar buz, kaya ve toz içeren küçük Güneş Sistemi cisimleridir.",
+      "Bir kuyruklu yıldız Güneş'e yaklaştığında koma adı verilen bulanık bir atmosfer oluşturabilir.",
+      "Kuyruklu yıldızların kuyrukları genellikle Güneş'ten uzağa doğru yönelir.",
+      "Güneş bir yıldızdır.",
+      "Güneş, Samanyolu Galaksisi'nde bulunan sıradan bir yıldız türü olan G tipi ana kol yıldızıdır.",
+      "Güneş'in enerjisi çekirdeğinde gerçekleşen nükleer füzyondan kaynaklanır.",
+      "Güneş rüzgarı Güneş'ten yayılan yüklü parçacık akışıdır.",
+      "Güneş rüzgarı Dünya'nın manyetosferini etkileyebilir.",
+      "Yıldızlar kendi ışıklarını ve enerjilerini üretir.",
+      "Yıldızların enerjisi yaşamlarının büyük bölümünde nükleer füzyon süreçlerinden gelir.",
+      "Yıldızların rengi yüzey sıcaklıkları hakkında bilgi verebilir.",
+      "Mavi yıldızlar genellikle kırmızı yıldızlardan daha yüksek yüzey sıcaklığına sahiptir.",
+      "Kırmızı cüceler, Samanyolu'ndaki en yaygın yıldız türlerinden biridir.",
+      "Proxima Centauri, Güneş'e en yakın yıldızlardan biridir.",
+      "Proxima Centauri bir kırmızı cücedir.",
+      "Samanyolu'nda yüz milyarlarca yıldız bulunduğu düşünülmektedir.",
+      "Galaksiler milyarlarca yıldız, gaz, toz ve karanlık madde içerebilir.",
+      "Yıldız kütleli kara delikler büyük yıldızların yaşamlarının sonunda oluşabilir.",
+      "Proxima Centauri b, Güneş Sistemi'ne en yakın bilinen ötegezegenlerden biridir.",
+      "Bazı ötegezegenler yıldızlarının yaşanabilir bölgelerinde bulunur.",
+      "Yaşanabilir bölge, uygun koşullarda yüzeyde sıvı su bulunmasına izin verebilecek yıldız çevresi bölgesidir.",
+      "Bir gezegenin yıldızının etrafındaki yörünge süresi, gezegenin yılıdır.",
+      "Dünya'nın manyetik alanı Güneş rüzgarına karşı önemli bir koruma sağlar.",
+      "Ötegezegen, Güneş dışında bir yıldızın veya yıldız kalıntısının çevresinde dolanan gezegendir.",
+      "Transit yönteminde, bir gezegen yıldızının önünden geçerken yıldızın gözlenen parlaklığı çok az azalır.",
+      "Radyal hız yöntemi, yıldızın gezegenin kütleçekim etkisiyle yaptığı küçük hareketleri tayf çizgilerindeki Doppler kaymasıyla ölçer.",
+      "Doğrudan görüntüleme yöntemi, yıldız ışığından ayrıştırılabilen genç, büyük veya yıldızından uzakta bulunan bazı ötegezegenleri görüntülemeyi hedefler.",
+      "Bir yıldızın tayfı, sıcaklığı ve kimyasal bileşimi hakkında bilgi sağlayabilir.",
+      "Bir yıldızın ışık eğrisi, parlaklığının zaman içindeki değişimini gösterir."
+    ],
+    "galaksiler_kozmoloji": [
+      "Güneş, Samanyolu Galaksisi'nde bulunan sıradan bir yıldız türü olan G tipi ana kol yıldızıdır.",
+      "Kırmızı cüceler, Samanyolu'ndaki en yaygın yıldız türlerinden biridir.",
+      "Güneş Sistemi Samanyolu Galaksisi'nin bir parçasıdır.",
+      "Samanyolu bir çubuklu sarmal galaksidir.",
+      "Samanyolu'nun merkezinde süper kütleli bir kara delik bulunur.",
+      "Samanyolu'nun merkezindeki süper kütleli kara deliğin adı Sagittarius A*'dır.",
+      "Samanyolu'nda yüz milyarlarca yıldız bulunduğu düşünülmektedir.",
+      "Güneş Sistemi, Samanyolu'nun merkezinde bulunmaz.",
+      "Güneş Sistemi Samanyolu'nun Orion Kolu olarak da adlandırılan yerel sarmal kolunda bulunur.",
+      "Galaksiler milyarlarca yıldız, gaz, toz ve karanlık madde içerebilir.",
+      "Galaksiler farklı şekil ve boyutlarda bulunabilir.",
+      "Sarmal galaksilerin belirgin kolları bulunabilir.",
+      "Eliptik galaksiler genellikle daha oval veya yuvarlak görünümlüdür.",
+      "Düzensiz galaksilerin belirgin bir şekli olmayabilir.",
+      "Andromeda Galaksisi, Samanyolu'na en yakın büyük galaksilerden biridir.",
+      "Andromeda Galaksisi yaklaşık 2,5 milyon ışık yılı uzaklıktadır.",
+      "Samanyolu ve Andromeda'nın gelecekte birbirleriyle etkileşime girmesi beklenmektedir.",
+      "Evrenin milyarlarca galaksi içerdiği düşünülmektedir.",
+      "Evrenin gözlemlenebilir kısmı, ışığının bize ulaşabildiği bölgedir.",
+      "Gözlemlenebilir evrenin çapının yaklaşık 93 milyar ışık yılı olduğu tahmin edilmektedir.",
+      "Süper kütleli kara delikler galaksilerin merkezlerinde bulunabilir.",
+      "Evrenin genişlediği gözlemlerle desteklenmektedir.",
+      "Evrenin genişlemesi, galaksilerin büyük ölçeklerde birbirlerinden uzaklaşmasıyla gözlemlenir.",
+      "Uzak galaksilerin ışığında kırmızıya kayma gözlemlenebilir.",
+      "Kırmızıya kayma, bir gökcisminin ışığının daha uzun dalga boylarına kaymasıdır.",
+      "Büyük Patlama modeli, evrenin erken dönemindeki sıcak ve yoğun durumunu açıklar.",
+      "Kozmik mikrodalga arka plan ışıması, erken evrenden kalan önemli bir gözlemdir.",
+      "Karanlık madde ışıkla doğrudan etkileşimi çok zayıf olduğu düşünülen bir madde türüdür.",
+      "Karanlık enerji, evrenin genişlemesinin hızlanmasıyla ilişkilendirilen bir kavramdır.",
+      "Evrenin büyük bölümünün karanlık enerji ve karanlık maddeden oluştuğu düşünülmektedir.",
+      "Kütleçekim, evrendeki büyük ölçekli yapıların oluşumunda önemli bir kuvvettir."
+    ],
+    "kara_delikler_gorecelilik": [
+      "Samanyolu'nun merkezinde süper kütleli bir kara delik bulunur.",
+      "Kara delik, kütleçekiminin çok güçlü olduğu bir uzay-zaman bölgesidir.",
+      "Kara deliklerin olay ufku adı verilen bir sınırı vardır.",
+      "Olay ufkunun içinden ışığın kaçması mümkün değildir.",
+      "Kara delikler doğrudan ışık yaymadıkları için kendilerini kolayca göremeyiz.",
+      "Kara delikler çevrelerindeki madde üzerindeki etkileriyle tespit edilebilir.",
+      "Bazı kara deliklerin çevresinde çok sıcak madde diskleri bulunabilir.",
+      "Yıldız kütleli kara delikler büyük yıldızların yaşamlarının sonunda oluşabilir.",
+      "Süper kütleli kara delikler galaksilerin merkezlerinde bulunabilir.",
+      "Kara deliklerin birleşmesi kütleçekim dalgaları oluşturabilir.",
+      "Kütleçekim dalgaları uzay-zamandaki dalgalanmalardır.",
+      "Kütleçekimsel merceklenme, büyük kütlelerin arka plandaki cisimlerden gelen ışığı bükmesiyle oluşur."
+    ],
+    "otegezegenler_yasam": [
+      "Dünya, Güneş Sistemi'nde yaşam olduğu bilinen tek gezegendir.",
+      "Yıldızların enerjisi yaşamlarının büyük bölümünde nükleer füzyon süreçlerinden gelir.",
+      "Proxima Centauri bir kırmızı cücedir.",
+      "Yıldız kütleli kara delikler büyük yıldızların yaşamlarının sonunda oluşabilir.",
+      "Ötegezegen, Güneş Sistemi dışında bulunan gezegendir.",
+      "İlk doğrulanmış ötegezegenlerin keşfi astronomide büyük bir dönüm noktası olmuştur.",
+      "51 Pegasi b, 1995 yılında keşfedilen önemli bir ötegezegendir.",
+      "51 Pegasi b bir sıcak Jüpiter türü gaz devidir.",
+      "Proxima Centauri b, Güneş Sistemi'ne en yakın bilinen ötegezegenlerden biridir.",
+      "TRAPPIST-1 sistemi yedi Dünya boyutuna yakın gezegen içerir.",
+      "TRAPPIST-1e, yaşam araştırmaları açısından ilgi çeken ötegezegenlerden biridir.",
+      "Kepler-186f, Dünya boyutlu önemli bir ötegezegendir.",
+      "Bazı ötegezegenler yıldızlarının yaşanabilir bölgelerinde bulunur.",
+      "Yaşanabilir bölge, uygun koşullarda yüzeyde sıvı su bulunmasına izin verebilecek yıldız çevresi bölgesidir.",
+      "Bir gezegenin yaşanabilir bölgede bulunması onun kesin olarak yaşam barındırdığı anlamına gelmez.",
+      "Ötegezegen, Güneş dışında bir yıldızın veya yıldız kalıntısının çevresinde dolanan gezegendir.",
+      "Ötegezegenlerin keşfinde transit ve radyal hız yöntemleri sık kullanılır.",
+      "Doğrudan görüntüleme yöntemi, yıldız ışığından ayrıştırılabilen genç, büyük veya yıldızından uzakta bulunan bazı ötegezegenleri görüntülemeyi hedefler.",
+      "NASA Exoplanet Archive, 12 Kasım 2026 tarihinde 6.470 doğrulanmış ötegezegen kaydı bildiriyordu; bu sayı zamanla değişebilir.",
+      "Bir ötegezegenin yaşanabilir bölgede bulunması, yüzeyinde kesinlikle yaşam olduğu anlamına gelmez."
+    ],
+    "uzay_araclari_gorevler": [
+      "Uluslararası Uzay İstasyonu, Dünya'nın yörüngesinde bulunan büyük bir uzay istasyonudur.",
+      "Apollo 11, insanları Ay'ın yüzeyine ulaştıran ilk görevdir.",
+      "Voyager 1, Dünya'dan gönderilmiş en uzak uzay araçlarından biridir.",
+      "Voyager görevleri dış Güneş Sistemi hakkında önemli bilgiler sağlamıştır.",
+      "James Webb Uzay Teleskobu kızılötesi dalga boylarında gözlemler yapar.",
+      "Hubble Uzay Teleskobu uzay araştırmalarının en tanınmış teleskoplarından biridir.",
+      "Mars'a çok sayıda robotik uzay aracı gönderilmiştir.",
+      "Astronotlar uzay boşluğunda normal şekilde seslerini birbirlerine iletemezler.",
+      "Uzay giysileri astronotları vakum, sıcaklık değişimleri ve diğer tehlikelere karşı korumaya yardımcı olur.",
+      "Astronotlar mikro yerçekimi ortamında Dünya'dakinden farklı hareket eder.",
+      "James Webb Uzay Teleskobu ağırlıklı olarak kızılötesi dalga boylarında gözlem yapar.",
+      "Hubble Uzay Teleskobu görünür ışığın yanı sıra morötesi ve yakın kızılötesi bölgelerde de gözlem yapabilir.",
+      "Voyager 2, Uranüs ve Neptün'ün yakınından geçen tek uzay aracıdır.",
+      "Cassini-Huygens görevi, Huygens iniş aracıyla Titan yüzeyine başarılı bir iniş gerçekleştirmiştir.",
+      "OSIRIS-REx'in Bennu asteroidinden topladığı örnekler 2023 yılında Dünya'ya ulaştırılmıştır.",
+      "DART görevi, Dimorphos asteroid uydusunun yörüngesini değiştirerek kinetik çarpma yöntemini test etmiştir."
+    ],
+    "astronomi_fizik": [
+      "Güneş Sistemi'ndeki gezegenlerin tamamı aynı düzleme yakın yörüngelerde hareket eder.",
+      "Güneş'in kütlesi Güneş Sistemi'nin toplam kütlesinin yaklaşık yüzde 99,8'ini oluşturur.",
+      "Güneş'in enerjisi çekirdeğinde gerçekleşen nükleer füzyondan kaynaklanır.",
+      "Güneş patlamaları yoğun elektromanyetik enerji açığa çıkarabilir.",
+      "Yıldızlar kendi ışıklarını ve enerjilerini üretir.",
+      "Yıldızların enerjisi yaşamlarının büyük bölümünde nükleer füzyon süreçlerinden gelir.",
+      "Samanyolu'nun merkezinde süper kütleli bir kara delik bulunur.",
+      "Samanyolu'nun merkezindeki süper kütleli kara deliğin adı Sagittarius A*'dır.",
+      "Sagittarius A* yaklaşık dört milyon Güneş kütlesine sahiptir.",
+      "Bir ışık yılı zaman değil, uzaklık birimidir.",
+      "Bir ışık yılı yaklaşık 9,46 trilyon kilometredir.",
+      "Bir astronomik birim, Dünya ile Güneş arasındaki ortalama uzaklığı ifade eder.",
+      "Bir astronomik birim yaklaşık 149,6 milyon kilometredir.",
+      "Parsek, astronomide kullanılan bir uzaklık birimidir.",
+      "Bir parsek yaklaşık 3,26 ışık yılıdır.",
+      "Andromeda Galaksisi yaklaşık 2,5 milyon ışık yılı uzaklıktadır.",
+      "Gözlemlenebilir evrenin çapının yaklaşık 93 milyar ışık yılı olduğu tahmin edilmektedir.",
+      "Kara delik, kütleçekiminin çok güçlü olduğu bir uzay-zaman bölgesidir.",
+      "Yıldız kütleli kara delikler büyük yıldızların yaşamlarının sonunda oluşabilir.",
+      "Süper kütleli kara delikler galaksilerin merkezlerinde bulunabilir.",
+      "Kara deliklerin birleşmesi kütleçekim dalgaları oluşturabilir.",
+      "Kütleçekim dalgaları uzay-zamandaki dalgalanmalardır.",
+      "Uluslararası Uzay İstasyonu, Dünya'nın yörüngesinde bulunan büyük bir uzay istasyonudur.",
+      "Uluslararası Uzay İstasyonu yaklaşık 400 kilometre yükseklikte yörüngede bulunur.",
+      "Astronotlar mikro yerçekimi ortamında Dünya'dakinden farklı hareket eder.",
+      "Yerçekimi Dünya'nın her yerinde tamamen aynı değildir.",
+      "Ay'ın yerçekimi Dünya'nın yerçekiminin yaklaşık altıda biridir.",
+      "Mars'ın yüzey yerçekimi Dünya'nınkinden daha zayıftır.",
+      "Jüpiter'in yerçekimi Dünya'nınkinden çok daha güçlüdür.",
+      "Uzayda ağırlık ile kütle aynı şey değildir.",
+      "Kütle bir cismin sahip olduğu madde miktarıyla ilişkilidir.",
+      "Ağırlık, bir cismin üzerine etki eden yerçekimi kuvvetidir.",
+      "Karanlık enerji, evrenin genişlemesinin hızlanmasıyla ilişkilendirilen bir kavramdır.",
+      "Evrenin büyük bölümünün karanlık enerji ve karanlık maddeden oluştuğu düşünülmektedir.",
+      "Bir gezegenin yıldızının etrafındaki yörünge süresi, gezegenin yılıdır.",
+      "Dünya'nın Güneş etrafındaki yörünge süresi yaklaşık 365,25 gündür.",
+      "Dünya'nın manyetik alanı Güneş rüzgarına karşı önemli bir koruma sağlar.",
+      "Ay'ın kütleçekimi Dünya'daki gelgitlerin oluşmasında önemli rol oynar.",
+      "Güneş'in kütleçekimi gezegenleri yörüngelerinde tutar.",
+      "Kütleçekim, evrendeki büyük ölçekli yapıların oluşumunda önemli bir kuvvettir.",
+      "Radyal hız yöntemi, yıldızın gezegenin kütleçekim etkisiyle yaptığı küçük hareketleri tayf çizgilerindeki Doppler kaymasıyla ölçer.",
+      "James Webb Uzay Teleskobu ağırlıklı olarak kızılötesi dalga boylarında gözlem yapar.",
+      "DART görevi, Dimorphos asteroid uydusunun yörüngesini değiştirerek kinetik çarpma yöntemini test etmiştir.",
+      "Bir yıldızın tayfı, sıcaklığı ve kimyasal bileşimi hakkında bilgi sağlayabilir.",
+      "Bir yıldızın ışık eğrisi, parlaklığının zaman içindeki değişimini gösterir.",
+      "Bir gezegenin kütlesi ile yarıçapı birlikte kullanılarak ortalama yoğunluğu hesaplanabilir.",
+      "Bir gök cisminin yörüngesi her zaman tam daire değildir; birçok yörünge elips biçimindedir.",
+      "Kütleçekimsel merceklenme, büyük kütlelerin arka plandaki cisimlerden gelen ışığı bükmesiyle oluşur."
+    ]
+  },
+  "kullanici_profili": {
+    "kullanici_adi": "Kullanıcı",
+    "olusturulma_tarihi": "2026-11-17T22:06:08",
+    "guncellenme_tarihi": null
+  }
+}
